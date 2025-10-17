@@ -10,7 +10,7 @@
   --bg-light: #111;
   --text: #fff;
   --text-muted: #444;
-  --btn: rgba(255,255,255,0.08);
+  --btn: rgba(255,255,255,0.09);
   --btn-active: #333;
   --accent: #ff3d71;
 }
@@ -188,7 +188,7 @@ footer{
   position:fixed;
   bottom:25px;
   right:20px;
-  background:var(--accent);
+  background:var(--btn);
   border-radius:50%;
   width:46px;
   height:46px;
@@ -257,7 +257,6 @@ footer{
     <path d="M12 5.5c-.3 0-.6.1-.8.3l-6 6a1.1 1.1 0 0 0 1.6 1.6L11 9.2V18a1 1 0 0 0 2 0V9.2l4.2 4.2a1.1 1.1 0 0 0 1.6-1.6l-6-6a1 1 0 0 0-.8-.3z"/>
   </svg>
 </div>
-
 <script>
 const slides=document.querySelectorAll('.banner-slide');
 let idx=0;
@@ -268,8 +267,20 @@ setInterval(()=>{
 },4000);
 
 const scrollTop=document.getElementById('scrollTop');
-window.addEventListener('scroll',()=>{if(window.scrollY>400) scrollTop.classList.add('show'); else scrollTop.classList.remove('show');});
-scrollTop.addEventListener('click',()=>{window.scrollTo({top:0,behavior:'smooth'});});
+window.addEventListener('scroll',()=>{if(window.scrollY>200) scrollTop.classList.add('show'); else scrollTop.classList.remove('show');});
+scrollTop.addEventListener('click', () => {
+  if (window.scrollY > 0) {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+    const checkScroll = setInterval(() => {
+      if (window.scrollY === 0) {
+        clearInterval(checkScroll);
+        location.reload();
+      }
+    }, 50);
+  } else {
+    location.reload();
+  }
+});
 
 document.getElementById('searchBtn').addEventListener('click',()=>{window.location.href='/search'});
 document.getElementById('filterBtn').addEventListener('click',()=>{window.location.href='/filter'});
@@ -299,6 +310,7 @@ const animeData=[
 {title:'Boku no Hero Academia Season 7',genre:'Action,Adventure',year:'2024',rating:'8.1',img:'https://cdn.myanimelist.net/images/anime/1529/140306l.jpg'}
 ];
 
+
 const animeWrap=document.getElementById('animeWrap');
 const pagination=document.getElementById('pagination');
 const perPage=12;
@@ -308,7 +320,7 @@ function renderAnime(){
   const totalPages=Math.ceil(animeData.length/perPage);
   const start=(currentPage-1)*perPage;
   const show=animeData.slice(start,start+perPage);
-  animeWrap.innerHTML='';
+  animeWrap.innerHTML=''; // hapus label, langsung cards
   show.forEach(a=>{
     animeWrap.innerHTML+=`
       <div class="anime-card" onclick="window.location.href='/anime/${a.title.toLowerCase().replaceAll(' ','-')}'">
@@ -324,6 +336,7 @@ function renderAnime(){
     pagination.innerHTML+=`<div class="page-btn ${i===currentPage?'active':''}" onclick="changePage(${i})">${i}</div>`;
   }
 }
+
 function changePage(p){currentPage=p;renderAnime();}
 renderAnime();
 </script>
