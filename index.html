@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mineplix — Nonton Anime</title>
+<style>
+:root {
+  --bg:#000;
+  --bg-light:#111;
+  --text:#fff;
+  --text-muted:#444;
+  --btn:rgba(255,255,255,0.08);
+  --btn-active:#2a2a2a;
+  --accent:#ff3d71;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:Inter,system-ui,sans-serif;
+  user-select:none;
+  scroll-behavior:smooth;
+}
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 10px;
+  background:var(--bg);
+  position:sticky;
+  top:0;
+  z-index:20;
+  transition:background .3s ease, box-shadow .3s ease;
+}
+.navbar.scrolled{
+  background:var(--bg-light);
+}
+.logo{
+  font-weight:700;
+  font-size:1.2rem;
+  letter-spacing:0.5px;
+}
+.logo:hover{opacity:0.7}
+.nav-links{
+  display:flex;
+  gap:5px;
+  font-size:0.8rem;
+}
+.nav-item{
+  background:var(--btn);
+  border-radius:10px;
+  padding:10px;
+  font-weight:500;
+}
+.nav-item:hover{opacity:0.7}
+.banner {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+  background-color: #333;
+}
+.banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, transparent 0%, rgba(0,0,0,0.7) 70%, rgba(0,0,0,0.9) 100%);
+  z-index: 4;
+  pointer-events: none;
+}
+.banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+ background: linear-gradient(90deg,#2a2a2a 0%,#3a3a3a 25%,#4a4a4a 50%,#3a3a3a 75%,#2a2a2a 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+  z-index: 2;
+}
+@keyframes shimmer {
+  0% {background-position: -200% 0;}
+  100% {background-position: 200% 0;}
+}
+.banner-slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity .8s ease;
+  background-size: cover;
+  background-position: center;
+  z-index: 3;
+}
+.banner-slide.active {opacity: 1;}
+.banner-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 60px 20px 30px;
+  color: #fff;
+  z-index: 10;
+  background: linear-gradient(to bottom,rgba(0,0,0,0) 0%,#000 100%);
+}
+.banner-info h2 {
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+}
+.banner-info p {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 10px;
+  max-width: 80%;
+  line-height: 1.4;
+}
+.watch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 2px solid var(--accent);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-size: 1rem;
+  background: transparent;
+  transition: transform .15s ease, background .15s ease;
+}
+
+.watch-btn:hover {
+  transform: scale(0.96);
+  background: var(--accent);
+}
+.search-section{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:14px;
+}
+.search-box{
+  flex:1;
+  background:var(--btn-active);
+  border-radius:10px;
+  padding:10px 12px;
+  height:46px;
+  display:flex;
+  align-items:center;
+  border: 2px solid var(--btn);
+}
+.search-input{
+  flex:1;
+  background:none;
+  border:none;
+  outline:none;
+  color:var(--text);
+  font-size:0.9rem;
+}
+.filter-btn {
+  background: var(--btn);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 46px;
+  width: 46px;
+  transition: background .3s ease;
+}
+.filter-btn.active {
+  background: var(--accent);
+}
+.filter-btn svg{width:20px;height:20px;fill:var(--text)}
+
+/* 🔥 Animasi filter panel */
+.filter-panel{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  padding:0 14px;
+  border-bottom:1px solid rgba(255,255,255,0.1);
+  overflow:hidden;
+  max-height:0;
+  opacity:0;
+  transition:max-height .4s ease, opacity .3s ease, padding .3s ease;
+}
+.filter-panel.active{
+  padding:12px 14px 16px;
+  max-height:200px;
+  opacity:1;
+}
+
+.filter-line{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+}
+.filter-label{
+  font-size:1.1rem;
+  font-weight: bold;
+  color:var(--text);
+  margin-right:6px;
+}
+.filter-item{
+  padding:5px 8px;
+  border: 1px solid var(--accent);
+  border-radius:10px;
+  font-size:0.8rem;
+}
+.filter-item.active{background:var(--accent)}
+.anime-wrap{
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  padding:12px 14px 10px;
+}
+.anime-card{
+  width:100px;
+  transition:transform .2s ease;
+}
+.anime-card:hover{transform:scale(0.97)}
+.anime-cover{
+  width:100%;
+  height:150px;
+  background-size:cover;
+  background-position:center;
+  background-color: #333;
+  border-radius:8px;
+  position:relative;
+  overflow:hidden;
+}
+.anime-year,.anime-rating{
+  position:absolute;
+  font-size:0.7rem;
+  color:#fff;
+  background:rgba(0,0,0,0.5);
+  padding:2px 5px;
+  border-radius:4px;
+}
+.anime-year{bottom:6px;right:6px;}
+.anime-rating{bottom:6px;left:6px;}
+.anime-title{
+  margin-top:8px;
+  font-size:0.85rem;
+  color:var(--text);
+  font-weight:400;
+}
+.anime-title {
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: var(--text);
+  font-weight: 400;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  width: 100%;
+}
+.pagination{
+  display:flex;
+  justify-content:center;
+  gap:8px;
+  padding:15px 0 25px;
+}
+.page-btn{
+  background:var(--btn);
+  padding:6px 10px;
+  border-radius:6px;
+  font-size:0.8rem;
+}
+.page-btn.active{background:var(--accent)}
+ footer {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      padding: 15px 0;
+      margin-top: 15px;
+      border-top: none;
+    }
+.scroll-top{
+  position:fixed;
+  bottom:25px;
+  right:20px;
+  background:var(--accent);
+  border-radius:50%;
+  width:46px;
+  height:46px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  backdrop-filter:blur(6px);
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .3s ease, transform .3s ease;
+  z-index:50;
+}
+.scroll-top.show{
+  opacity:1;
+  pointer-events:auto;
+  transform:translateY(0);
+}
+.scroll-top svg{
+  width:22px;
+  height:22px;
+  fill:var(--text);
+}
+</style>
+</head>
+<body>
+<nav class="navbar" id="navbar">
+  <div class="logo">MINEPLIX</div>
+  <div class="nav-links">
+     <div class="nav-item" onclick="window.location.href='/info'">Informasi</div>
+    <div class="nav-item" onclick="window.location.href='/komunitas'">Komunitas</div>
+  </div>
+</nav>
+
+<div class="banner">
+  <div class="banner-slide active" style="background-image:url('https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg')">
+    <div class="banner-info">
+      <h2>Boku no Hero Academia: Final Season</h2>
+      <p>The final season</p>
+    </div>
+  </div>
+  <div class="banner-slide" style="background-image:url('https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg')">
+    <div class="banner-info">
+      <h2>Spy x Family Season 3</h2>
+      <p>Musim ke tiga.</p>
+    </div>
+  </div>
+</div>
+
+<div class="search-section">
+  <div class="search-box">
+    <input class="search-input" id="searchInput" placeholder="Cari anime...">
+  </div>
+  <div class="filter-btn" id="filterBtn">
+    <svg viewBox="0 0 24 24"><path d="M10 18h4v-2h-4v2zm-7-8v2h18v-2H3zm3-6v2h12V4H6z"/></svg>
+  </div>
+</div>
+
+<div class="filter-panel" id="filterPanel">
+  <div class="filter-line">
+    <div class="filter-label">Genre:</div>
+    <div class="filter-item">Action</div>
+    <div class="filter-item">Drama</div>
+    <div class="filter-item">Fantasy</div>
+    <div class="filter-item">Comedy</div>
+    <div class="filter-item">Romance</div>
+    <div class="filter-item">Sci-Fi</div>
+    <div class="filter-item">Supernatural</div>
+  </div>
+  <div class="filter-line">
+    <div class="filter-label">Tahun:</div>
+    <div class="filter-item active">All</div>
+    <div class="filter-item">2025</div>
+    <div class="filter-item">2024</div>
+    <div class="filter-item">2023</div>
+    <div class="filter-item">2022</div>
+  </div>
+</div>
+
+<div class="anime-wrap" id="animeWrap"></div>
+<div class="pagination" id="pagination"></div>
+<footer>©mineplix-animestream</footer>
+
+<div class="scroll-top" id="scrollTop">
+  <svg viewBox="0 0 24 24">
+    <path d="M12 5.5c-.3 0-.6.1-.8.3l-6 6a1.1 1.1 0 0 0 1.6 1.6L11 9.2V18a1 1 0 0 0 2 0V9.2l4.2 4.2a1.1 1.1 0 0 0 1.6-1.6l-6-6a1 1 0 0 0-.8-.3z"/>
+  </svg>
+</div>
+
+<script>
+const slides=document.querySelectorAll('.banner-slide');
+let idx=0;
+setInterval(()=>{slides[idx].classList.remove('active');idx=(idx+1)%slides.length;slides[idx].classList.add('active');},4000);
+
+document.getElementById('filterBtn').onclick=()=>{
+  const panel=document.getElementById('filterPanel');
+  panel.classList.toggle('active');
+};
+
+const navbar = document.getElementById('navbar');
+const scrollTop = document.getElementById('scrollTop');
+
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 400) scrollTop.classList.add('show');
+  else scrollTop.classList.remove('show');
+});
+
+scrollTop.onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+
+const animeData=[
+{title:'Kimi to Koete Koi ni Naru',genre:'Fantasy,Romance',year:'2025',rating:'7.0',img:'https://cdn.myanimelist.net/images/anime/1334/151773.jpg'},
+{title:'Yano-kun no Futsuu no Hibi',genre:'Comedy,Romance',year:'2025',rating:'7.0',img:'https://cdn.myanimelist.net/images/anime/1388/152332l.jpg'},
+{title:'Ninja to Gokudou',genre:'Action',year:'2025',rating:'6.5',img:'https://cdn.myanimelist.net/images/anime/1296/152147l.jpg'},
+{title:'Tondemo Skill de Isekai Hourou Meshi 2',genre:'Adventure,Comedy,Fantasy',year:'2025',rating:'7.4',img:'https://cdn.myanimelist.net/images/anime/1206/151772l.jpg'},
+{title:'Egao no Taenai Shokuba desu.',genre:'Comedy',year:'2025',rating:'6.7',img:'https://cdn.myanimelist.net/images/anime/1617/151874l.jpg'},
+{title:'Mofa Gongzhu de Xiao Fannao',genre:'Fantasy,Drama',year:'2025',rating:'7.7',img:'https://cdn.myanimelist.net/images/anime/1537/152271l.jpg'},
+{title:'Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga',genre:'Action,Adventure,Fantasy',year:'2025',rating:'-',img:'https://cdn.myanimelist.net/images/anime/1276/151118l.jpg'},
+{title:'Sozai Saishuka no Isekai Ryokouki',genre:'Adventure,Fantasy',year:'2025',rating:'-',img:'https://cdn.myanimelist.net/images/anime/1289/151136l.jpg'},
+{title:'3-nen Z-gumi Ginpachi-sensei',genre:'Comedy',year:'2025',rating:'8.3',img:'https://cdn.myanimelist.net/images/anime/1643/151547l.jpg'},
+{title:'One Punch Man 3',genre:'Comedy,Action',year:'2025',rating:'-',img:'https://cdn.myanimelist.net/images/anime/1168/148347.jpg'},
+{title:'Chanto Suenai Kyuuketsuki-chan',genre:'Comedy,Fantasy',year:'2025',rating:'6.9',img:'https://cdn.myanimelist.net/images/anime/1888/151887.jpg'},
+{title:'Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.',genre:'Fantasy',year:'2025',rating:'7.0',img:'https://cdn.myanimelist.net/images/anime/1811/151799l.jpg'},
+{title:'Yofukashi no Uta',genre:'Supernatural,Romance',year:'2022',rating:'8.0',img:'https://cdn.myanimelist.net/images/anime/1045/123711l.jpg'},
+{title:'Yofukashi no Uta Season 2',genre:'Supernatural,Romance',year:'2025',rating:'8.3',img:'https://cdn.myanimelist.net/images/anime/1509/148453l.jpg'},
+{title:'Boku no Hero Academia: Final Season',genre:'Action',year:'2025',rating:'8.4',img:'https://cdn.myanimelist.net/images/anime/1959/151055l.jpg'},
+{title:'Boku no Hero Academia',genre:'Action',year:'2016',rating:'7.8',img:'https://cdn.myanimelist.net/images/anime/10/78745l.jpg'},
+{title:'Boku no Hero Academia Season 2',genre:'Action',year:'2017',rating:'8.1',img:'https://cdn.myanimelist.net/images/anime/12/85221l.jpg'},
+{title:'Boku no Hero Academia Season 3',genre:'Action',year:'2018',rating:'8.0',img:'https://cdn.myanimelist.net/images/anime/1319/92084l.jpg'},
+{title:'Boku no Hero Academia Season 4',genre:'Action',year:'2019',rating:'7.9',img:'https://cdn.myanimelist.net/images/anime/1412/107914l.jpg'},
+{title:'Boku no Hero Academia Season 5',genre:'Action',year:'2021',rating:'7.4',img:'https://cdn.myanimelist.net/images/anime/1911/113611l.jpg'},
+{title:'Boku no Hero Academia Season 6',genre:'Action',year:'2022',rating:'8.2',img:'https://cdn.myanimelist.net/images/anime/1483/126005l.jpg'},
+{title:'Boku no Hero Academia Season 7',genre:'Action,Adventure',year:'2024',rating:'8.1',img:'https://cdn.myanimelist.net/images/anime/1529/140306l.jpg'},
+{title:'Boku no ',genre:'Action,Comedy',year:'2025',rating:'8.1',img:'https://cdn.myanimelist.net/images/anime/1529/140306l.jpg'}
+];
+
+const animeWrap=document.getElementById('animeWrap');
+const pagination=document.getElementById('pagination');
+const filters=document.querySelectorAll('.filter-item');
+const searchInput=document.getElementById('searchInput');
+const perPage=12;
+let currentPage=1;
+
+filters.forEach(f=>{
+  f.onclick=()=>{
+    const label=f.parentElement.querySelector('.filter-label').textContent.trim();
+    if(label==='Tahun:'){
+      f.parentElement.querySelectorAll('.filter-item').forEach(x=>x.classList.remove('active'));
+      f.classList.add('active');
+    }else{
+      f.classList.toggle('active');
+    }
+    currentPage=1;
+    renderAnime();
+  };
+});
+searchInput.oninput=()=>{currentPage=1;renderAnime();};
+function renderAnime(){
+  const genres=[...document.querySelectorAll('.filter-line:nth-child(1) .filter-item.active')].map(e=>e.textContent.toLowerCase());
+  const yearActive=document.querySelector('.filter-line:nth-child(2) .filter-item.active')?.textContent||'All';
+  const keyword=searchInput.value.toLowerCase();
+  const filtered=animeData.filter(a=>{
+    const matchKeyword=a.title.toLowerCase().includes(keyword);
+    const matchGenre=genres.length===0||genres.some(g=>a.genre.toLowerCase().includes(g));
+    const matchYear=yearActive==='All'||yearActive===a.year;
+    return matchKeyword&&matchGenre&&matchYear;
+  });
+  const totalPages=Math.ceil(filtered.length/perPage);
+  const start=(currentPage-1)*perPage;
+  const show=filtered.slice(start,start+perPage);
+  animeWrap.innerHTML='';
+  show.forEach(a=>{
+    animeWrap.innerHTML+=`
+    <div class="anime-card" data-title="${a.title}">
+      <div class="anime-cover" onclick="window.location.href='/anime/${a.title.toLowerCase().replaceAll(' ','-')}'" style="background-image:url('${a.img}')">
+        <div class="anime-rating">⭐${a.rating}</div>
+        <div class="anime-year">${a.year}</div>
+      </div>
+      <div class="anime-title">${a.title}</div>
+    </div>`;
+  });
+  pagination.innerHTML='';
+  if(totalPages>1){
+    for(let i=1;i<=totalPages;i++){
+      pagination.innerHTML+=`<div class="page-btn ${i===currentPage?'active':''}" onclick="changePage(${i})">${i}</div>`;
+    }
+  }
+}
+function changePage(p){currentPage=p;renderAnime();}
+renderAnime();
+
+const filterBtn = document.getElementById('filterBtn');
+const filterPanel = document.getElementById('filterPanel');
+
+filterBtn.onclick = () => {
+  filterPanel.classList.toggle('active');
+  filterBtn.classList.toggle('active');
+};
+</script>
+</body>
+</html>
