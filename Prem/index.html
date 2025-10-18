@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mineplix Premium</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
@@ -15,7 +14,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 40px 20px;
+  padding: 40px 20px 100px;
   user-select: none;
 }
 
@@ -47,22 +46,6 @@ h1 span {
   margin: 8px 0 25px;
 }
 
-.plan {
-  background: #1c1c25;
-  border-radius: 10px;
-  padding: 14px 18px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 25px;
-}
-
-.plan div {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
 .info-box {
   background: #1c1c25;
   border-radius: 10px;
@@ -74,21 +57,25 @@ h1 span {
 }
 
 .button {
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
   background: #f8aa2a;
-  color: #fff;
+  color: #eee;
   font-weight: 600;
-  border-radius: 30px;
-  padding: 14px;
+  border-radius: 25px;
+  padding: 12px 80px;
+  font-size: 0.9em;
   text-align: center;
-  margin-top: 25px;
-  font-size: 0.95em;
-  transition: 0.25s ease;
+  transition: background 0.25s ease;
+  box-shadow: 0 0 20px rgba(248,170,42,0.25);
 }
 
 .button:hover {
   background: #ffb942;
-  transform: scale(1.03);
 }
+
 </style>
 </head>
 <body>
@@ -105,15 +92,16 @@ h1 span {
 
   <h1>Mineplix <span>Komunitas</span></h1>
   <p class="desc">Bergabunglah diskusi bersama berimajinasi</p>
-  <div class="info-box"> 
-  gabung untuk berdiskusi anime dan sever minecraft kami bermain bersama curhat dan mendapatkan teman.
-    <br><br>
-    Dukungan dan donasi kamu membantu kami untuk terus berkarya kami hanya gabut bermain bersama hehe untuk komunitas chat bersama.
-  </div>
 
-  <div class="button" onclick="window.location.href='https://chat.whatsapp.com/YOURGROUPLINK';">
-    Gabung Komunitas
+  <div class="info-box">
+    Gabung untuk berdiskusi tentang anime dan server Minecraft kami, bermain bersama, curhat, dan mendapatkan teman baru.
+    <br><br>
+    Dukungan dan donasi kamu membantu kami untuk terus berkarya. Kami hanya gabut bermain bersama hehe, untuk komunitas dan chat seru bareng.
   </div>
+</div>
+
+<div class="button" onclick="window.location.href='';">
+  Gabung Komunitas
 </div>
 
 </body>
