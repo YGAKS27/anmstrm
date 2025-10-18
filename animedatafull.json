@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Sousou no Frieren",
+    "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "year": 2023,
+    "genre": ["Fantasy", "Drama", "Adventure"],
+    "status": "Completed",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Kaiju No. 8",
+    "cover": "https://cdn.myanimelist.net/images/anime/1762/142465.jpg",
+    "year": 2024,
+    "genre": ["Action", "Sci-Fi"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Yoru no Kurage wa Oyogenai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1705/142260.jpg",
+    "year": 2024,
+    "genre": ["Slice of Life", "Drama"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "cover": "https://cdn.myanimelist.net/images/anime/1988/142676.jpg",
+    "year": 2025,
+    "genre": ["Action", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "minggu"
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "cover": "https://cdn.myanimelist.net/images/anime/1033/143506.jpg",
+    "year": 2024,
+    "genre": ["Fantasy", "Adventure"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Your Name",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+    "year": 2016,
+    "genre": ["Romance", "Drama", "Supernatural"],
+    "status": "Completed",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Bleach: Thousand-Year Blood War",
+    "cover": "https://cdn.myanimelist.net/images/anime/1873/124899.jpg",
+    "year": 2023,
+    "genre": ["Action", "Supernatural", "Shounen"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "cover": "https://cdn.myanimelist.net/images/anime/1809/142406.jpg",
+    "year": 2025,
+    "genre": ["Fantasy", "Drama", "Thriller"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Blue Lock Movie: Episode Nagi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1721/140746.jpg",
+    "year": 2024,
+    "genre": ["Sports", "Action"],
+    "status": "Completed",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Spy x Family Season 3",
+    "cover": "https://cdn.myanimelist.net/images/anime/1839/143781.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Action", "Slice of Life"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "sabtu"
+  }
+]
