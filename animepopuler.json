@@ -1,24 +1,72 @@
 [
-  {"title":"Kimi to Koete Koi ni Naru","genre":"Fantasy,Romance","year":"2025","rating":"7.0","img":"https://cdn.myanimelist.net/images/anime/1334/151773.jpg"},
-  {"title":"Yano-kun no Futsuu no Hibi","genre":"Comedy,Romance","year":"2025","rating":"7.0","img":"https://cdn.myanimelist.net/images/anime/1388/152332l.jpg"},
-  {"title":"Ninja to Gokudou","genre":"Action","year":"2025","rating":"6.5","img":"https://cdn.myanimelist.net/images/anime/1296/152147l.jpg"},
-  {"title":"Tondemo Skill de Isekai Hourou Meshi 2","genre":"Adventure,Comedy,Fantasy","year":"2025","rating":"7.4","img":"https://cdn.myanimelist.net/images/anime/1206/151772l.jpg"},
-  {"title":"Egao no Taenai Shokuba desu.","genre":"Comedy","year":"2025","rating":"6.7","img":"https://cdn.myanimelist.net/images/anime/1617/151874l.jpg"},
-  {"title":"Mofa Gongzhu de Xiao Fannao","genre":"Fantasy,Drama","year":"2025","rating":"7.7","img":"https://cdn.myanimelist.net/images/anime/1537/152271l.jpg"},
-  {"title":"Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga","genre":"Action,Adventure,Fantasy","year":"2025","rating":"-","img":"https://cdn.myanimelist.net/images/anime/1276/151118l.jpg"},
-  {"title":"Sozai Saishuka no Isekai Ryokouki","genre":"Adventure,Fantasy","year":"2025","rating":"-","img":"https://cdn.myanimelist.net/images/anime/1289/151136l.jpg"},
-  {"title":"3-nen Z-gumi Ginpachi-sensei","genre":"Comedy","year":"2025","rating":"8.3","img":"https://cdn.myanimelist.net/images/anime/1643/151547l.jpg"},
-  {"title":"One Punch Man 3","genre":"Comedy,Action","year":"2025","rating":"-","img":"https://cdn.myanimelist.net/images/anime/1168/148347.jpg"},
-  {"title":"Chanto Suenai Kyuuketsuki-chan","genre":"Comedy,Fantasy","year":"2025","rating":"6.9","img":"https://cdn.myanimelist.net/images/anime/1888/151887.jpg"},
-  {"title":"Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.","genre":"Fantasy","year":"2025","rating":"7.0","img":"https://cdn.myanimelist.net/images/anime/1811/151799l.jpg"},
-  {"title":"Yofukashi no Uta","genre":"Supernatural,Romance","year":"2022","rating":"8.0","img":"https://cdn.myanimelist.net/images/anime/1045/123711l.jpg"},
-  {"title":"Yofukashi no Uta Season 2","genre":"Supernatural,Romance","year":"2025","rating":"8.3","img":"https://cdn.myanimelist.net/images/anime/1509/148453l.jpg"},
-  {"title":"Boku no Hero Academia: Final Season","genre":"Action","year":"2025","rating":"8.4","img":"https://cdn.myanimelist.net/images/anime/1959/151055l.jpg"},
-  {"title":"Boku no Hero Academia","genre":"Action","year":"2016","rating":"7.8","img":"https://cdn.myanimelist.net/images/anime/10/78745l.jpg"},
-  {"title":"Boku no Hero Academia Season 2","genre":"Action","year":"2017","rating":"8.1","img":"https://cdn.myanimelist.net/images/anime/12/85221l.jpg"},
-  {"title":"Boku no Hero Academia Season 3","genre":"Action","year":"2018","rating":"8.0","img":"https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"},
-  {"title":"Boku no Hero Academia Season 4","genre":"Action","year":"2019","rating":"7.9","img":"https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"},
-  {"title":"Boku no Hero Academia Season 5","genre":"Action","year":"2021","rating":"7.4","img":"https://cdn.myanimelist.net/images/anime/1911/113611l.jpg"},
-  {"title":"Boku no Hero Academia Season 6","genre":"Action","year":"2022","rating":"8.2","img":"https://cdn.myanimelist.net/images/anime/1483/126005l.jpg"},
-  {"title":"Boku no Hero Academia Season 7","genre":"Action,Adventure","year":"2024","rating":"8.1","img":"https://cdn.myanimelist.net/images/anime/1529/140306l.jpg"}
+  {
+    "title": "Solo Leveling Season 2: Arise from the Shadow",
+    "genre": "Action, Fantasy, Adventure",
+    "year": "2025",
+    "rating": "8.6",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1448/147351.webp?s=62714912f7e2f54667578e120419f696"
+  },
+  {
+    "title": "Sakamoto Days.",
+    "genre": "Action, Comedy",
+    "year": "2025",
+    "rating": "7.5",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1026/146459.webp?s=fed5bd5977422c536b138802afa81feb"
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "genre": "Action, Comedy, Supernatural",
+    "year": "2025",
+    "rating": "8.4",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1721/149001.webp?s=95e2dc370b6fb5528e7dd29927351be3"
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "genre": "Drama, Mystery",
+    "year": "2025",
+    "rating": "8.9",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1025/147458.webp?s=f11822419d8330ec2ef3cd59b2ab69ed"
+  },
+  {
+    "title": "Gachiakuta",
+    "genre": "Action, Fantasy",
+    "year": "2025",
+    "rating": "8.0",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1682/150432.webp?s=6c55e23e52b0803ba57584f30745e51a"
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "genre": "Romance",
+    "year": "2025",
+    "rating": "8.2",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1024/150787.webp?s=91c35961a1b92ad1294342f44b132ae6"
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "genre": "Drama, Romance",
+    "year": "2025",
+    "rating": "8.6",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1744/150433.webp?s=b4de926e93b1e2955d17dd94bf998d5b"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 1: Akaza Returns",
+    "genre": "Action, Supernatural",
+    "year": "2025",
+    "rating": "8.7",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1687/143891.webp?s=109c48da29f75cbdb3ad7dede983ba9c"
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "genre": "Action, Fantasy",
+    "year": "2025",
+    "rating": "7.8",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1177/150344.webp?s=4eabaab0b2f5118b4994e1ab5db8de98"
+  },
+  {
+    "title": "One-Punch Man Season 3",
+    "genre": "Action, Comedy",
+    "year": "2025",
+    "rating": "6.8",
+    "img": "https://cdn.myanimelist.net/r/200x268/images/anime/1168/148347.webp?s=42938f44a1d90098ace318a0b255ad9c"
+  }
 ]
