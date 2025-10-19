@@ -9,6 +9,46 @@
       "title": "Versi 1.1.0",
       "description": "Perbaikan performa dan optimasi UI.",
       "date": "2025-09-30"
+    },
+    {
+      "title": "Versi 1.0.5",
+      "description": "Menambahkan fitur pencarian anime dan tombol tonton cepat.",
+      "date": "2025-09-12"
+    },
+    {
+      "title": "Versi 1.0.3",
+      "description": "Memperbaiki error pemuatan video dan memperhalus animasi transisi halaman.",
+      "date": "2025-08-25"
+    },
+    {
+      "title": "Versi 1.0.0",
+      "description": "Rilis awal Mineplix dengan tampilan minimalis dan pemutar video cepat.",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "Versi 1.3.0 Beta",
+      "description": "Menambahkan daftar tontonan (Watchlist) dan sistem penyimpanan lokal.",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Versi 1.3.1 Beta",
+      "description": "Memperbaiki bug pada Watchlist dan menambah dukungan mode potret otomatis.",
+      "date": "2025-11-10"
+    },
+    {
+      "title": "Versi 1.4.0",
+      "description": "Menambahkan fitur download offline dan dukungan subtitle multi-bahasa.",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Versi 1.4.2",
+      "description": "Perbaikan kecil pada tampilan dan peningkatan kecepatan pemuatan halaman.",
+      "date": "2025-12-10"
+    },
+    {
+      "title": "Versi 1.5.0",
+      "description": "Menambahkan sistem notifikasi update dan tampilan baru pada halaman informasi.",
+      "date": "2026-01-05"
     }
   ]
 }
