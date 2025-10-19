@@ -172,7 +172,7 @@
   },
   {
     "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
-    "cover": "",
+    "cover": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
     "year": 2025,
     "genre": ["Adventure", "Action", "Comedy", "Fantasy"],
     "status": "Ongoing",
@@ -289,7 +289,7 @@
   },
   {
     "title": "Cat's♥Eye (2025)",
-    "cover": "",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184718-GvNnorokj1i3.jpg",
     "year": 2025,
     "genre": ["Action", "Romance", "Adventure", "Comedy", "Mystery"],
     "status": "Ongoing",
@@ -304,5 +304,14 @@
     "status": "Ongoing",
     "format": "TV",
     "update": "sabtu"
+  },
+  {
+    "title": "",
+    "cover": "",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "minggu"
   }
 ]
