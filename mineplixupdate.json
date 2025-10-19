@@ -1,0 +1,14 @@
+{
+  "updates": [
+    {
+      "title": "Versi 1.2.0",
+      "description": "Menambahkan mode malam otomatis dan perbaikan bug kecil.",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Versi 1.1.0",
+      "description": "Perbaikan performa dan optimasi UI.",
+      "date": "2025-09-30"
+    }
+  ]
+}
