@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    :root {
+      --bg: #000;
+      --text: #fff;
+      --text-muted: #444;
+      --btn: rgba(255,255,255,0.08);
+      --btn-active: #333;
+      --card-hover: #111;
+      --info-bg: #222;
+      --skeleton-light: #1c1c1c;
+      --skeleton-dark: #0d0d0d;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, "Segoe UI", Roboto;
+      user-select: none;
+    }
+
+    .video-wrap {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+      overflow: hidden;
+      background: var(--bg);
+    }
+
+    .video-wrap::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(100deg, var(--skeleton-dark) 20%, var(--skeleton-light) 40%, var(--skeleton-dark) 60%);
+      background-size: 200% 100%;
+      animation: skeleton 1.3s infinite linear;
+    }
+
+    @keyframes skeleton {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    .video-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      border: 0;
+      opacity: 0;
+      transition: opacity .4s ease;
+    }
+
+    .video-wrap.loaded::before { display: none; }
+    .video-wrap.loaded iframe { opacity: 1; }
+
+    .meta {
+      padding: 12px 15px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .titleanime { color: var(--text-muted); }
+
+    .episodes {
+      display: flex;
+      overflow-x: auto;
+      gap: 10px;
+      padding: 0 0 10px;
+      margin: 0 10px;
+      scroll-behavior: smooth;
+    }
+
+    .episodes::-webkit-scrollbar { height: 2px; }
+    .episodes::-webkit-scrollbar-thumb { background: var(--btn); border-radius: 4px; }
+
+    .episode {
+      color: var(--text);
+      border-radius: 10px;
+      padding: 15px 0px;
+      width: 50px;
+      text-align: center;
+      font-size: 0.8rem;
+      background: var(--btn);
+      flex-shrink: 0;
+      transition: transform .15s ease;
+    }
+
+    .episode:hover { transform: scale(0.96); }
+    .episode:active { transform: scale(0.90); }
+    .episode.active { background: var(--btn-active); font-weight: 600; }
+
+    .info-alert {
+      margin: 0 10px 10px;
+      padding: 10px;
+      background: var(--btn);
+      border-radius: 10px;
+      font-size: 0.8rem;
+      line-height: 1.5;
+    }
+
+    .toolbar {
+      display: flex;
+      overflow-x: auto;
+      gap: 10px;
+      padding: 0 0 10px;
+      margin: 0 10px;
+    }
+
+    .tool-item {
+      background: var(--btn);
+      border-radius: 10px;
+      padding: 10px 12px;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      white-space: nowrap;
+      transition: transform 0.15s ease;
+    }
+
+    .tool-item:hover { transform: scale(0.96); }
+    .tool-item:active { transform: scale(0.90); }
+
+    .tool-item svg { width: 18px; height: 18px; fill: currentColor; }
+
+    .tabs {
+      margin: 0 10px;
+      padding-top: 10px;
+      border-top: 2px solid var(--btn);
+    }
+
+    .tab-buttons {
+      display: flex;
+      gap: 10px;
+    }
+
+    .tab-btn {
+      flex: 1;
+      background: var(--bg);
+      color: var(--text);
+      padding: 10px;
+      text-align: center;
+      font-size: 0.85rem;
+      border-radius: 10px;
+      border: 2px solid var(--btn);
+      transition: transform 0.15s ease;
+    }
+
+    .tab-btn:hover { transform: scale(0.96); }
+    .tab-btn:active { transform: scale(0.90); }
+    .tab-btn.active { background: var(--info-bg); color: var(--text); }
+
+    .tab-content {
+      background: var(--info-bg);
+      padding: 12px;
+      font-size: 0.8rem;
+      line-height: 1.6;
+      color: var(--text);
+      border-radius: 10px;
+      margin-top: 10px;
+      border: 2px solid var(--btn);
+    }
+
+    @media (min-width: 768px) {
+      .tab-buttons { display: none; }
+      .tab-wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+      }
+      .tab-content { display: block !important; }
+    }
+
+    footer {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      padding: 15px 0;
+      margin-top: 15px;
+      border-top: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="video-wrap" id="videoWrap">
+    <iframe id="videoPlayer"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen title="Video player"></iframe>
+  </div>
+
+  <div class="meta">
+    <div><div id="epTitle">Episode 1</div></div>
+    <div class="titleanime">- Sono Bisque Doll wa Koi wo Suru Season 2</div>
+  </div>
+
+  <div id="episodeContainer" class="episodes">
+    <div class="episode active" data-src="https://yoredesu.blogspot.com/?type=multi&amp;link=W3siaHRtbCI6IjcyMHAiLCJ1cmwiOiJodHRwczovL3BpeGVsZHJhaW4uY29tL2FwaS9maWxlL0czcDc4Q0NzIiwiZGVmYXVsdCI6dHJ1ZX0seyJodG1sIjoiNDgwcCIsInVybCI6Imh0dHBzOi8vcGl4ZWxkcmFpbi5jb20vYXBpL2ZpbGUvdEs4UmZkTkUiLCJkZWZhdWx0IjpmYWxzZX0seyJodG1sIjoiMzYwcCIsInVybCI6Imh0dHBzOi8vcGl4ZWxkcmFpbi5jb20vYXBpL2ZpbGUvblM3eXRXemMiLCJkZWZhdWx0IjpmYWxzZX1d">1</div>
+    <div class="episode" data-src="https://yoredesu.blogspot.com/?type=multi&amp;link=W3siaHRtbCI6IkhEIiwidXJsIjoiaHR0cHM6Ly9waXhlbGRyYWluLmNvbS9hcGkvZmlsZS9CaWQzdHZGViIsImRlZmF1bHQiOnRydWV9LHsiaHRtbCI6IlNEIiwidXJsIjoiaHR0cHM6Ly9waXhlbGRyYWluLmNvbS9hcGkvZmlsZS9nVVc0Q2FFYyIsImRlZmF1bHQiOmZhbHNlfV0%3D">2</div>
+    <div class="episode" data-src="https://yoredesu.blogspot.com/?type=multi&amp;link=W3siaHRtbCI6IkhEIiwidXJsIjoiaHR0cHM6Ly9waXhlbGRyYWluLmNvbS9hcGkvZmlsZS9hV3VkWnZHcyIsImRlZmF1bHQiOnRydWV9LHsiaHRtbCI6IlNEIiwidXJsIjoiaHR0cHM6Ly9waXhlbGRyYWluLmNvbS9hcGkvZmlsZS9oSHZlVE1kYyIsImRlZmF1bHQiOmZhbHNlfV0%3D">3</div>
+  </div>
+
+  <div class="info-alert">
+    <strong>Info Pemutar:</strong> Jika video terasa buffering terlalu lama, silakan Pembaruan halaman dan juga untuk mengecek ada Pembaruan episode silahkan Pembaruan juga.
+  </div>
+
+  <div class="toolbar">
+    <div class="tool-item" id="updateBtn">
+       <svg viewBox="0 0 24 24"><path d="M17.65 6.35A8 8 0 1 0 12 20v-2a6 6 0 1 1 6-6h-3l4 4 4-4h-3a8 8 0 0 0-2.35-5.65z"/></svg>
+      <span>Pembaruan</span>
+    </div>
+    <div class="tool-item" id="downloadBtn">
+      <svg viewBox="0 0 24 24"><path d="M12 16L8 12h3V4h2v8h3l-4 4zM4 18h16v2H4v-2z"/></svg>
+      <span>Download</span>
+    </div>
+    <div class="tool-item" id="shareBtn">
+      <svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7a2.49 2.49 0 0 0 0-1.39l7.02-4.11A2.5 2.5 0 1 0 14.5 5a2.5 2.5 0 0 0 .09.63L7.57 9.74a2.5 2.5 0 1 0 0 4.52l7.03 4.12c-.06.2-.1.41-.1.62a2.5 2.5 0 1 0 2.5-2.92z"/></svg>
+      <span>Bagikan</span>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <div class="tab-buttons">
+      <div class="tab-btn active" data-tab="info">Informasi</div>
+      <div class="tab-btn" data-tab="spoiler">Spoiler</div>
+    </div>
+
+    <div class="tab-wrapper">
+      <div class="tab-content" id="infoTab">
+        <div class="info-list">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </div>
+      </div>
+
+      <div class="tab-content" id="spoilerTab" style="display:none;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </div>
+    </div>
+  </div>
+
+  <footer>©mineplix-animestream</footer>
+
+  <script>
+    let iframe = document.getElementById('videoPlayer');
+    const epTitle = document.getElementById('epTitle');
+    const episodes = document.querySelectorAll('.episode');
+    const videoWrap = document.getElementById('videoWrap');
+
+    function loadEpisode(el) {
+      episodes.forEach(e => e.classList.remove('active'));
+      el.classList.add('active');
+      epTitle.textContent = 'Episode ' + el.textContent;
+      const newSrc = el.dataset.src;
+      videoWrap.classList.remove('loaded');
+      const newIframe = iframe.cloneNode(true);
+      newIframe.src = newSrc;
+      newIframe.onload = () => videoWrap.classList.add('loaded');
+      iframe.replaceWith(newIframe);
+      iframe = newIframe;
+    }
+
+    episodes.forEach(ep => ep.addEventListener('click', () => loadEpisode(ep)));
+    loadEpisode(document.querySelector('.episode.active'));
+
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    const infoTab = document.getElementById('infoTab');
+    const spoilerTab = document.getElementById('spoilerTab');
+
+    tabButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        tabButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        infoTab.style.display = btn.dataset.tab === "info" ? "block" : "none";
+        spoilerTab.style.display = btn.dataset.tab === "spoiler" ? "block" : "none";
+      });
+    });
+
+    document.getElementById('updateBtn').addEventListener('click', () => location.reload());
+  </script>
+</body>
+  </html>
+  
