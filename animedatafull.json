@@ -1,90 +1,306 @@
 [
   {
-    "title": "Sousou no Frieren",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "year": 2023,
-    "genre": ["Fantasy", "Drama", "Adventure"],
-    "status": "Completed",
-    "format": "TV",
-    "update": "jumat"
-  },
-  {
-    "title": "Kaiju No. 8",
-    "cover": "https://cdn.myanimelist.net/images/anime/1762/142465.jpg",
-    "year": 2024,
-    "genre": ["Action", "Sci-Fi"],
+    "title": "One Punch Man 3",
+    "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+    "year": 2025,
+    "genre": ["Action", "Comedy"],
     "status": "Ongoing",
     "format": "TV",
-    "update": "sabtu"
+    "update": "senin"
   },
   {
-    "title": "Yoru no Kurage wa Oyogenai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1705/142260.jpg",
-    "year": 2024,
-    "genre": ["Slice of Life", "Drama"],
+    "title": "Chanto Suenai Kyuuketsuki-chan",
+    "cover": "https://cdn.myanimelist.net/images/anime/1888/151887.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+    "cover": "https://cdn.myanimelist.net/images/anime/1811/151799l.jpg",
+    "year": 2025,
+    "genre": ["Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Gachiakuta",
+    "cover": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
+    "year": 2025,
+    "genre": ["Action", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "cover": "https://cdn.myanimelist.net/images/anime/1618/151138l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Alma-chan wa Kazoku ni Naritai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1982/151278l.jpg",
+    "year": 2025,
+    "genre": ["Romance", "Comedy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Debu to Love to Ayamachi to!",
+    "cover": "https://cdn.myanimelist.net/images/anime/1669/151736l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Egao no Taenai Shokuba desu.",
+    "cover": "https://cdn.myanimelist.net/images/anime/1617/151874l.jpg",
+    "year": 2025,
+    "genre": ["Comedy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Mofa Gongzhu de Xiao Fannao",
+    "cover": "https://cdn.myanimelist.net/images/anime/1537/152271l.jpg",
+    "year": 2025,
+    "genre": ["Drama", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "cover": "https://cdn.myanimelist.net/images/anime/1276/151118l.jpg",
+    "year": 2025,
+    "genre": ["Adventure", "Action", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "3-nen Z-gumi Ginpachi-sensei",
+    "cover": "https://cdn.myanimelist.net/images/anime/1643/151547l.jpg",
+    "year": 2025,
+    "genre": ["Comedy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Jigoku Sensei Nube (2025)",
+    "cover": "https://cdn.myanimelist.net/images/anime/1637/148197l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Supernatural", "Horor"],
     "status": "Ongoing",
     "format": "TV",
     "update": "rabu"
   },
   {
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "cover": "https://cdn.myanimelist.net/images/anime/1988/142676.jpg",
+    "title": "Yano-kun no Futsuu no Hibi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1388/152332l.jpg",
     "year": 2025,
-    "genre": ["Action", "Fantasy"],
+    "genre": ["Comedy", "Romance"],
     "status": "Ongoing",
     "format": "TV",
-    "update": "minggu"
+    "update": "rabu"
   },
   {
-    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-    "cover": "https://cdn.myanimelist.net/images/anime/1033/143506.jpg",
-    "year": 2024,
-    "genre": ["Fantasy", "Adventure"],
-    "status": "Ongoing",
-    "format": "TV",
-    "update": "jumat"
-  },
-  {
-    "title": "Your Name",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-    "year": 2016,
-    "genre": ["Romance", "Drama", "Supernatural"],
-    "status": "Completed",
-    "format": "Movie",
-    "update": ""
-  },
-  {
-    "title": "Bleach: Thousand-Year Blood War",
-    "cover": "https://cdn.myanimelist.net/images/anime/1873/124899.jpg",
-    "year": 2023,
-    "genre": ["Action", "Supernatural", "Shounen"],
-    "status": "Ongoing",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-    "cover": "https://cdn.myanimelist.net/images/anime/1809/142406.jpg",
+    "title": "Ninja to Gokudou",
+    "cover": "https://cdn.myanimelist.net/images/anime/1296/152147l.jpg",
     "year": 2025,
-    "genre": ["Fantasy", "Drama", "Thriller"],
+    "genre": ["Action"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Chitose-kun wa Ramune Bin no Naka",
+    "cover": "https://cdn.myanimelist.net/images/anime/1015/151233l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1206/151772l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Adventure", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Kimi to Koete Koi ni Naru",
+    "cover": "https://cdn.myanimelist.net/images/anime/1334/151773.jpg",
+    "year": 2025,
+    "genre": ["Romance", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Wandance",
+    "cover": "https://cdn.myanimelist.net/images/anime/1104/151524l.jpg",
+    "year": 2025,
+    "genre": ["Sports"],
     "status": "Ongoing",
     "format": "TV",
     "update": "kamis"
   },
   {
-    "title": "Blue Lock Movie: Episode Nagi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1721/140746.jpg",
-    "year": 2024,
-    "genre": ["Sports", "Action"],
-    "status": "Completed",
-    "format": "Movie",
-    "update": ""
+    "title": "Kakuriyo no Yadomeshi Ni",
+    "cover": "https://cdn.myanimelist.net/images/anime/1619/151364l.jpg",
+    "year": 2025,
+    "genre": ["Drama", "Fantasy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "kamis"
   },
   {
-    "title": "Spy x Family Season 3",
-    "cover": "https://cdn.myanimelist.net/images/anime/1839/143781.jpg",
+    "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+    "cover": "",
     "year": 2025,
-    "genre": ["Comedy", "Action", "Slice of Life"],
+    "genre": ["Adventure", "Action", "Comedy", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Taiyou yori mo Mabushii Hoshi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
+    "year": 2025,
+    "genre": ["Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Let's Play: Quest-darake no My Life",
+    "cover": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Akujiki Reijou to Kyouketsu Koushaku",
+    "cover": "https://cdn.myanimelist.net/images/anime/1264/152012l.jpg",
+    "year": 2025,
+    "genre": ["Fantasy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Tensei Akujo no Kuro Rekishi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Bukiyou na Senpai.",
+    "cover": "https://cdn.myanimelist.net/images/anime/1257/152233l.jpg",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Watashi wo Tabetai, Hitodenashi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1191/152368l.jpg",
+    "year": 2025,
+    "genre": ["Drama", "Supernatural"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Mugen Gacha",
+    "cover": "https://cdn.myanimelist.net/images/anime/1163/151246l.jpg",
+    "year": 2025,
+    "genre": ["Action", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Tougen Anki",
+    "cover": "https://cdn.myanimelist.net/images/anime/1474/150666l.jpg",
+    "year": 2025,
+    "genre": ["Action", "Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Towa no Yuugure",
+    "cover": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
+    "year": 2025,
+    "genre": ["Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Futari Solo Camp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1904/150649l.jpg",
+    "year": 2025,
+    "genre": ["Slice Of Life", "Gourmet"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Heika Watashi wo Wasurete Kudasai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1889/151926l.jpg",
+    "year": 2025,
+    "genre": ["Fantasy", "Romance"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Potion, Wagami wo Tasukeru",
+    "cover": "https://cdn.myanimelist.net/images/anime/1311/151227l.jpg",
+    "year": 2025,
+    "genre": ["Fantasy"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Cat's♥Eye (2025)",
+    "cover": "",
+    "year": 2025,
+    "genre": ["Action", "Romance", "Adventure", "Comedy", "Mystery"],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "",
+    "cover": "",
+    "year": 2025,
+    "genre": ["Comedy", "Romance"],
     "status": "Ongoing",
     "format": "TV",
     "update": "sabtu"
