@@ -1,0 +1,26 @@
+{
+  "title": "Spy × Family Season 3",
+  "altTitle": null,
+  "cover": "https://cdn.myanimelist.net/images/anime/2166/150234.jpg",
+  "genre": ["Action", "Comedy", "Spy", "Family"],
+  "description": "The Forger family — master spy Loid (Twilight), assassin Yor (Thorn Princess), and telepath daughter Anya — return for their next mission. Season 3 begins October 4 2025 and continues the thrill of espionage, family bonds, and unexpected twists. 1",
+  "video": "vidio.html#spy-x-family-s3",
+  "production": "WIT Studio & CloverWorks",
+  "release": "October 4, 2025",
+  "rating": null,
+  "episodes": [
+    {
+      "number": 1,
+      "url": ""
+    },
+    {
+      "number": 2,
+      "url": ""
+    },
+    {
+      "number": 3,
+      "url": ""
+    }
+    // ...more episodes expected
+  ]
+}
