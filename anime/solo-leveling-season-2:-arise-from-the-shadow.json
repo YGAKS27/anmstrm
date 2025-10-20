@@ -1,0 +1,27 @@
+{
+  "title": "Solo Leveling Season 2",
+  "altTitle": "Solo Leveling: Arise from the Shadow",
+  "cover": "https://cdn.myanimelist.net/images/anime/2122/156784.jpg",
+  "genre": ["Action", "Fantasy", "Supernatural"],
+  "description": "Following his incredible rise in power, Sung Jin-woo now holds the title “Shadow Monarch”. Season 2 continues his journey as he commands an army of shadows, conceals his powers from other Hunters, and faces new threats that could endanger humanity. 1",
+  "video": "vidio.html#solo-leveling-season2",
+  "production": "A-1 Pictures",
+  "release": "4 Januari 2025",
+  "rating": null,
+  "episodes": [
+    {
+      "number": 1,
+      "url": ""
+    },
+    {
+      "number": 2,
+      "url": ""
+    },
+    {
+      "number": 3,
+      "url": ""
+    }
+    // and so on up to episode 13
+  ],
+  "totalEpisodes": 13
+}
