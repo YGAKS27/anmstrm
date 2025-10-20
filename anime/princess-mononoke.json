@@ -1,1 +1,17 @@
-
+{
+  "title": "Mononoke Hime",
+  "altTitle": "Princess Mononoke",
+  "cover": "https://cdn.myanimelist.net/images/anime/7/75919.jpg",
+  "genre": ["Adventure", "Fantasy", "Drama"],
+  "description": "Ashitaka, seorang pangeran muda, terlibat dalam konflik antara manusia dan para roh hutan setelah menyelamatkan desa dari serangan makhluk terkutuk. Dalam perjalanannya, ia bertemu San — gadis yang dibesarkan oleh serigala — dan berusaha mencari keseimbangan antara manusia dan alam.",
+  "video": "vidio.html#princess-mononoke",
+  "production": "Studio Ghibli",
+  "release": "Juli 1997",
+  "rating": "8.7",
+  "episodes": [
+    {
+      "number": 1,
+      "url": ""
+    }
+  ]
+}
