@@ -1,13 +1,13 @@
 {
-  "title": "Dandadan Season 2",
-  "altTitle": null,
+  "title": "DanDaDan Season 2",
+  "altTitle": "Dandadan Season 2",
   "cover": "https://cdn.myanimelist.net/images/anime/2143/159999.jpg",
   "genre": ["Action", "Comedy", "Supernatural", "Sci-Fi"],
-  "description": "Musim kedua melanjutkan kisah Momo Ayase dan Ken “Okarun” Takakura yang menghadapi kekuatan supranatural seperti roh, alien dan ‘Evil Eye’. Aksi semakin intens dan misteri makin dalam. 1",
+  "description": "Musim kedua melanjutkan kisah Momo Ayase dan Ken 'Okarun' Takakura yang kembali menghadapi kekuatan supranatural seperti yōkai dan alien. Aksi semakin intens dan misteri makin dalam seiring hubungan mereka yang berkembang.",
   "video": "vidio.html#dandadan-season-2",
   "production": "Science SARU",
-  "release": "July 3, 2025",
-  "rating": null,
+  "release": "Juli 2025",
+  "rating": "8.5",
   "episodes": [
     {
       "number": 1,
@@ -21,7 +21,5 @@
       "number": 3,
       "url": ""
     }
-    // … sampai episode 12
-  ],
-  "totalEpisodes": 12
+  ]
 }
