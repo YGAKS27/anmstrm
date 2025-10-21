@@ -419,7 +419,7 @@
     "update": "sabtu"
   },
   {
-    "title": "Kaijuu 8-gou 2nd Season",
+    "title": "Kaiju No. 8 Season 2",
     "cover": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
     "year": 2025,
     "genre": [
@@ -671,5 +671,126 @@
     "status": "Ongoing",
     "format": "TV",
     "update": "minggu"
+  },
+  {
+    "title": "Spirited Away",
+    "cover": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
+    "year": 2021,
+    "genre": [
+      "Fantasy", "Adventure"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Your Name.",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
+    "year": 2016,
+    "genre": [
+      "Romance", "Fantasy"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Suki demo Kirai",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1698/142716.webp?s=84bcc8baed7b603d4c848502527f50ac",
+    "year": 2024,
+    "genre": [
+      "Drama", "Romance"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+    "year": 2020,
+    "genre": [
+      "Drama", "Adventure", "Action", "Fantasy"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Look Back",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1584/141396.webp?s=342e2221ec37f7974e20a21682a1737d",
+    "year": 2024,
+    "genre": [
+      "Drama", "Slice of Life"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Princess Mononoke",
+    "cover": "https://cdn.myanimelist.net/images/anime/7/75919l.jpg",
+    "year": 1997,
+    "genre": [
+      "Fantasy", "Adventure"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "A Silent Voice",
+    "cover": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
+    "year": 2016,
+    "genre": [
+      "Drama", "Romance"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Weathering With You",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1880/101146.webp?s=392a4005f298ad95e5b7715879cae423",
+    "year": 2019,
+    "genre": [
+      "Fantasy", "Romance"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Drifting Home",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1263/124155.webp?s=daeeea216314df510a7a24b1d9951e46",
+    "year": 2022,
+    "genre": [
+      "Fantasy"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Suzume",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1598/128450.webp?s=29dacd5b9bb664a1f5a889b89653c488",
+    "year": 2022,
+    "genre": [
+      "Adventure"
+    ],
+    "status": "",
+    "format": "",
+    "update": ""
+  },
+  {
+    "title": "",
+    "cover": "",
+    "year": 2025,
+    "genre": [
+      "Drama"
+    ],
+    "status": "",
+    "format": "",
+    "update": ""
   }
 ]
