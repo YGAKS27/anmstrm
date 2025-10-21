@@ -778,19 +778,85 @@
     "genre": [
       "Adventure"
     ],
-    "status": "",
-    "format": "",
+    "status": "Finished",
+    "format": "Movie",
     "update": ""
   },
   {
-    "title": "",
-    "cover": "",
+    "title": "Solo Leveling Season 2: Arise from the Shadow",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1448/147351.webp",
     "year": 2025,
     "genre": [
-      "Drama"
+      "Action", "Adventure", "Fantasy"
     ],
-    "status": "",
-    "format": "",
+    "status": "Finished",
+    "format": "TV",
     "update": ""
+  },
+  {
+    "title": "Sakamoto Days",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1026/146459.webp",
+    "year": 2025,
+    "genre": [
+      "Action", "Comedy"
+    ],
+    "status": "Finished",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1721/149001.webp",
+    "year": 2025,
+    "genre": [
+      "Action", "Comedy", "Supernatural"
+    ],
+    "status": "Finished",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1025/147458.webp",
+    "year": 2025,
+    "genre": [
+      "Drama", "Mystery"
+    ],
+    "status": "Finished",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 1: Akaza Returns",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1687/143891.webp",
+    "year": 2025,
+    "genre": [
+      "Action", "Supernatural"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Mofa Gongzhu de Xiao Fannao",
+    "cover": "https://cdn.myanimelist.net/images/anime/1537/152271l.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama", "Fantasy"
+    ],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Sozai Saishuka no Isekai Ryokouki",
+    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
+    "year": 2025,
+    "genre": [
+      "Adventure", "Fantasy"
+    ],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
   }
 ]
