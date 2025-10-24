@@ -824,5 +824,16 @@
     "status": "Ongoing",
     "format": "TV",
     "update": "senin"
+  },
+  {
+    "title": "huka no Isekai Ryokouki",
+    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
+    "year": 2025,
+    "genre": [
+      "Adventure", "Fantasy"
+    ],
+    "status": "Ongoing",
+    "format": "TV",
+    "update": "senin"
   }
 ]
