@@ -824,27 +824,5 @@
     "status": "Ongoing",
     "format": "TV",
     "update": "senin"
-  },
-  {
-    "title": "Sozai Saiouki",
-    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
-    "year": 2025,
-    "genre": [
-      "Adventure", "Fantasy"
-    ],
-    "status": "Ongoing",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Sozai Saishukyokouki",
-    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
-    "year": 2025,
-    "genre": [
-      "Adventure", "Fantasy"
-    ],
-    "status": "Ongoing",
-    "format": "TV",
-    "update": "senin"
   }
 ]
