@@ -1,14 +1,32 @@
 [
   {
-    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
-    "desc": "Marin dan Gojo kembali dengan kostum yang lebih keren, momen yang lebih manis, dan tawa yang nggak ada habisnya! 💞✨",
-    "img": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/efe80a55370f96edc544fb3d16c4b16f.jpg",
-    "link": "sono-bisque-doll-wa-koi-wo-suru-season-2"
+    "img": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "title": "Solo Leveling",
+    "desc": "Seorang hunter terlemah berubah menjadi yang terkuat.",
+    "link": "solo-leveling"
   },
   {
-    "title": "Spy x Family Season 3",
-    "desc": "Keluarga mata-mata paling kocak di dunia anime kembali! Misi baru, rahasia baru, dan tentu saja—keimutan Anya level dewa! 🕵️‍♀️💥",
-    "img": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
-    "link": "spy-x-family-season-3"
+    "img": "https://cdn.myanimelist.net/images/anime/1734/135098.jpg",
+    "title": "Kimetsu no Yaiba: Hashira Training",
+    "desc": "Pelatihan para pilar untuk menghadapi iblis terkuat.",
+    "link": "kimetsu-no-yaiba-hashira-training"
+  },
+  {
+    "img": "https://cdn.myanimelist.net/images/anime/1160/112333.jpg",
+    "title": "Jujutsu Kaisen Season 2",
+    "desc": "Gojo dan Geto di masa lalu, kisah sebelum Shibuya.",
+    "link": "jujutsu-kaisen-season-2"
+  },
+  {
+    "img": "https://cdn.myanimelist.net/images/anime/1773/133782.jpg",
+    "title": "Sousou no Frieren",
+    "desc": "Seorang penyihir abadi menelusuri makna waktu dan perpisahan.",
+    "link": "sousou-no-frieren"
+  },
+  {
+    "img": "https://cdn.myanimelist.net/images/anime/1499/113471.jpg",
+    "title": "Attack on Titan: Final Season",
+    "desc": "Akhir perjalanan Eren Yeager dan tembok yang runtuh.",
+    "link": "attack-on-titan-final-season"
   }
 ]
