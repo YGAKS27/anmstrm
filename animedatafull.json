@@ -7,7 +7,7 @@
       "Action",
       "Comedy"
     ],
-    "episode": "eps1",  // baru mulai; total ep menuju ~12 diperkirakan 0
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   },
@@ -19,7 +19,7 @@
       "Action",
       "Fantasy"
     ],
-    "episode": "eps1",  // total diperkirakan 24 episode 1
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   },
@@ -641,7 +641,7 @@
     "genre": [
       "Romance", "Fantasy"
     ],
-    "episode": "eps1",  // film → tetap eps1
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -652,7 +652,7 @@
     "genre": [
       "Drama", "Romance"
     ],
-    "episode": "eps1",  // film → eps1
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -663,7 +663,7 @@
     "genre": [
       "Drama", "Adventure", "Action", "Fantasy"
     ],
-    "episode": "eps1",  // film → eps1
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -674,7 +674,7 @@
     "genre": [
       "Drama", "Slice of Life"
     ],
-    "episode": "eps1",  // film → eps1
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
