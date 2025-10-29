@@ -679,11 +679,22 @@
     "update": ""
   },
   {
-    "title": "Princess Mononoke",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/75919l.jpg",
-    "year": 1997,
+    "title": "Boku ga Aishita Subete no Kimi e",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1149/123760.webp?s=9c2307d63fe710b09efce1c77fa0a1ed",
+    "year": "2022",
     "genre": [
-      "Fantasy", "Adventure"
+      "Romance", "Sci-Fi"
+    ],
+    "status": "Finished",
+    "format": "Movie",
+    "update": ""
+  },
+  {
+    "title": "Kimi wo Aishita Hitori no Boku e",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1706/123761.webp?s=75dec7f67f780dd5512cc8f5fe3896b7",
+    "year": "2022",
+    "genre": [
+      "Romance", "Sci-Fi"
     ],
     "status": "Finished",
     "format": "Movie",
@@ -720,7 +731,7 @@
     ],
     "status": "Finished",
     "format": "Movie",
-    "update": "latest"
+    "update": ""
   },
   {
     "title": "Suzume",
