@@ -7,7 +7,7 @@
       "Action",
       "Comedy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",  // baru mulai; total ep menuju ~12 diperkirakan 0
     "format": "TV",
     "update": "senin"
   },
@@ -19,7 +19,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",  // total diperkirakan 24 episode 1
     "format": "TV",
     "update": "senin"
   },
@@ -31,7 +31,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   },
@@ -43,7 +43,7 @@
       "Romance",
       "Comedy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   },
@@ -55,7 +55,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   },
@@ -66,7 +66,7 @@
     "genre": [
       "Comedy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "selasa"
   },
@@ -78,7 +78,7 @@
       "Drama",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "selasa"
   },
@@ -91,7 +91,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "selasa"
   },
@@ -102,7 +102,7 @@
     "genre": [
       "Comedy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "selasa"
   },
@@ -115,7 +115,7 @@
       "Supernatural",
       "Horor"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "rabu"
   },
@@ -127,9 +127,9 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
-    "update": "rabu"
+      "update": "rabu"
   },
   {
     "title": "Ninja to Gokudou",
@@ -138,7 +138,7 @@
     "genre": [
       "Action"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "rabu"
   },
@@ -150,7 +150,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "rabu"
   },
@@ -163,7 +163,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "rabu"
   },
@@ -175,7 +175,7 @@
       "Romance",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "rabu"
   },
@@ -186,7 +186,7 @@
     "genre": [
       "Sports"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "kamis"
   },
@@ -199,7 +199,7 @@
       "Fantasy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "kamis"
   },
@@ -213,7 +213,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "kamis"
   },
@@ -224,7 +224,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "kamis"
   },
@@ -236,7 +236,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "kamis"
   },
@@ -248,7 +248,7 @@
       "Fantasy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -260,7 +260,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -272,7 +272,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -284,7 +284,7 @@
       "Drama",
       "Supernatural"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -296,7 +296,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -308,7 +308,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -319,7 +319,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -331,7 +331,7 @@
       "Slice Of Life",
       "Gourmet"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -343,7 +343,7 @@
       "Fantasy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -354,7 +354,7 @@
     "genre": [
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "jumat"
   },
@@ -365,7 +365,7 @@
     "genre": [
       "Action"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -376,7 +376,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -388,7 +388,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -399,7 +399,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -411,7 +411,7 @@
       "Adventure",
       "Slice of Life"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -424,7 +424,7 @@
       "Action",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -436,7 +436,7 @@
       "Action",
       "Comedy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -448,21 +448,21 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
   {
     "title": "Kekkon Yubiwa Monogatari II",
     "cover": "https://cdn.myanimelist.net/images/anime/1478/151722l.jpg",
-    "year": 2025,
-    "genre": [
+      "year": 2025,
+      "genre": [
       "Action",
       "Fantasy",
       "Romance",
       "Ecchi"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -475,7 +475,7 @@
       "Romance",
       "Drama"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -489,7 +489,7 @@
       "Fantasy",
       "Action"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -501,7 +501,7 @@
       "Action",
       "Mystery"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "sabtu"
   },
@@ -512,7 +512,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -523,7 +523,7 @@
     "genre": [
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -535,7 +535,7 @@
       "Drama",
       "Sports"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -547,7 +547,7 @@
       "Comedy",
       "Romance"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -559,7 +559,7 @@
       "Comedy",
       "Action"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -572,7 +572,7 @@
       "Drama",
       "Supernatural"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -583,7 +583,7 @@
     "genre": [
       "Sci-Fi"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -594,7 +594,7 @@
     "genre": [
       "Action"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -608,7 +608,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -619,7 +619,7 @@
     "genre": [
       "Music"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -630,7 +630,7 @@
     "genre": [
       "Drama"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "minggu"
   },
@@ -641,7 +641,7 @@
     "genre": [
       "Romance", "Fantasy"
     ],
-    "status": "Finished",
+    "episode": "eps1",  // film → tetap eps1
     "format": "Movie",
     "update": ""
   },
@@ -652,7 +652,7 @@
     "genre": [
       "Drama", "Romance"
     ],
-    "status": "Finished",
+    "episode": "eps1",  // film → eps1
     "format": "Movie",
     "update": ""
   },
@@ -663,7 +663,7 @@
     "genre": [
       "Drama", "Adventure", "Action", "Fantasy"
     ],
-    "status": "Finished",
+    "episode": "eps1",  // film → eps1
     "format": "Movie",
     "update": ""
   },
@@ -674,7 +674,7 @@
     "genre": [
       "Drama", "Slice of Life"
     ],
-    "status": "Finished",
+    "episode": "eps1",  // film → eps1
     "format": "Movie",
     "update": ""
   },
@@ -685,7 +685,7 @@
     "genre": [
       "Romance", "Sci-Fi"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -696,7 +696,7 @@
     "genre": [
       "Romance", "Sci-Fi"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -707,7 +707,7 @@
     "genre": [
       "Drama", "Romance"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -718,7 +718,7 @@
     "genre": [
       "Fantasy", "Romance"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -729,7 +729,7 @@
     "genre": [
       "Fantasy"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -740,7 +740,7 @@
     "genre": [
       "Adventure"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "Movie",
     "update": ""
   },
@@ -751,7 +751,7 @@
     "genre": [
       "Action", "Adventure", "Fantasy"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "TV",
     "update": ""
   },
@@ -762,7 +762,7 @@
     "genre": [
       "Action", "Comedy"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "TV",
     "update": ""
   },
@@ -773,7 +773,7 @@
     "genre": [
       "Action", "Comedy", "Supernatural"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "TV",
     "update": ""
   },
@@ -784,7 +784,7 @@
     "genre": [
       "Drama", "Mystery"
     ],
-    "status": "Finished",
+    "episode": "eps1",
     "format": "TV",
     "update": ""
   },
@@ -795,7 +795,7 @@
     "genre": [
       "Adventure", "Fantasy"
     ],
-    "status": "Ongoing",
+    "episode": "eps1",
     "format": "TV",
     "update": "senin"
   }
