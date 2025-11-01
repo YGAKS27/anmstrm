@@ -1,17 +1,29 @@
 {
   "title": "Heika Watashi wo Wasurete Kudasai",
-  "altTitle": "Your Majesty, Please Forget About Me",
+  "altTitle": "Forget That Night, Your Majesty",
   "cover": "https://cdn.myanimelist.net/images/anime/1889/151926l.jpg",
-  "genre": ["Fantasy", "Romance", "Drama"],
+  "genre": ["Fantasy", "Romance"],
   "description": "Seorang gadis bangsawan yang dijodohkan dengan raja berusaha mengakhiri pertunangan mereka karena percaya dirinya tidak pantas untuknya. Namun, sang raja justru menunjukkan kasih sayang yang tak terduga, membuat kisah cinta tak seimbang ini menjadi lembut dan menyentuh. 1",
   "video": "vidio.html#heika-watashi-wo-wasurete-kudasai",
-  "production": "EMT Squared",
-  "release": "4 Oktober 2025",
+  "production": "Imagica Infos, Imageworks Studio",
+  "release": "7 Oktober 2025",
   "rating": "",
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://orihime.my.id/kdrive/b6tVdcmba2cS/Kuramanime-HEIKAWSR-01-720p.mp4?lud=1759902717&pid=38189&sid=199203&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://chizuru.my.id/kdrive/zqxuYwUMKOGN/Kuramanime-HEIKAWSR-02-720p.mp4?lud=1760468352&pid=38575&sid=201584&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://filo.my.id/kdrive/olGcuVOIIpQ/Kuramanime-HEIKAWSR-03-720p.mp4?lud=1761107293&pid=38960&sid=203291&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://tiera.my.id/kdrive/QqINq5NEVehX/Kuramanime-HEIKAWSR-04-720p.mp4?lud=1761672019&pid=39252&sid=204684&cce=1"
     }
   ]
 }
