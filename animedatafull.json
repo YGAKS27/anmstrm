@@ -1,51 +1,26 @@
 [
   {
-    "title": "One Punch Man 3",
-    "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+    "title": "3-nen Z-gumi Ginpachi-sensei",
+    "cover": "https://cdn.myanimelist.net/images/anime/1643/151547l.jpg",
     "year": 2025,
     "genre": [
-      "Action",
       "Comedy"
     ],
-    "episode": "3 Eps",
+    "episode": "4 Eps",
     "format": "TV",
-    "update": "senin"
+    "update": "selasa, populer"
   },
   {
-    "title": "Gachiakuta",
-    "cover": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
+    "title": "Akujiki Reijou to Kyouketsu Koushaku",
+    "cover": "https://cdn.myanimelist.net/images/anime/1264/152012l.jpg",
     "year": 2025,
     "genre": [
-      "Action",
-      "Fantasy"
-    ],
-    "episode": "16 Eps",
-    "format": "TV",
-    "update": "senin, populer"
-  },
-  {
-    "title": "Chanto Suenai Kyuuketsuki-chan",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1185/151888.webp?s=dcf1c9d26f749b96d00156ed768369c4",
-    "year": 2025,
-    "genre": [
-      "Supernatural",
-      "Comedy"
-    ],
-    "episode": "3 Eps",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1368/140405.webp",
-    "year": 2024,
-    "genre": [
-      "Comedy",
+      "Fantasy",
       "Romance"
     ],
-    "episode": "24 Eps",
+    "episode": "4 Eps",
     "format": "TV",
-    "update": ""
+    "update": "jumat"
   },
   {
     "title": "Alma-chan wa Kazoku ni Naritai",
@@ -60,111 +35,15 @@
     "update": "senin"
   },
   {
-    "title": "Debu to Love to Ayamachi to",
-    "cover": "https://cdn.myanimelist.net/images/anime/1669/151736l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "Nageki no Bourei wa Intai shitai Part 2",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1651/152063.webp?s=a4066fa9b5027e2c4f2e473679a84d25",
-    "year": 2025,
-    "genre": [
-      "Fantasy",
-      "Action",
-      "Adventure"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "Heika Watashi wo Wasurete Kudasai",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1889/151926.webp?s=879f405832b2c85efd412681e9a61aef",
-    "year": 2025,
-    "genre": [
-      "Fantasy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "Isekai Quartet 3",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1999/150568.webp?s=7b25d3bf201489d5e982d25b83696578",
-    "year": 2025,
-    "genre": [
-      "Fantasy",
-      "Comedy"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "Egao no Taenai Shokuba desu",
-    "cover": "https://cdn.myanimelist.net/images/anime/1617/151874l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Sawaranaide Kotesashi-kun",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1025/150482.webp?s=2df159acdfe421fa85d03bd6f48d273b",
-    "year": 2025,
-    "genre": [
-      "Sport",
-      "Ecchi"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1637/148702.webp?s=6b57bb66ec1db383bfbe31ea9eb5819d",
-    "year": 2025,
+    "title": "Ame wo Tsugeru Hyouryuu Danchi",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1263/124155.webp?s=daeeea216314df510a7a24b1d9951e46",
+    "year": 2022,
     "genre": [
       "Fantasy"
     ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Kikaijikake no Marie",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1618/151138.webp?s=367ce655fe71082d5273db9d332577e9",
-    "year": 2025,
-    "genre": [
-      "Romance",
-      "Comedy"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "senin"
-  },
-  {
-    "title": "Mofa Gongzhu de Xiao Fannao",
-    "cover": "https://cdn.myanimelist.net/images/anime/1537/152271l.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Fantasy"
-    ],
-    "episode": "3 Eps",
-    "format": "TV",
-    "update": "selasa"
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
@@ -180,50 +59,73 @@
     "update": "selasa"
   },
   {
-    "title": "3-nen Z-gumi Ginpachi-sensei",
-    "cover": "https://cdn.myanimelist.net/images/anime/1643/151547l.jpg",
+    "title": "Ao no Orchestra Season 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1078/151796l.jpg",
     "year": 2025,
     "genre": [
-      "Comedy"
+      "Drama"
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "selasa, populer"
+    "update": "minggu"
   },
   {
-    "title": "Yano-kun no Futsuu no Hibi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1388/152332l.jpg",
+    "title": "Boku ga Aishita Subete no Kimi e",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1149/123760.webp?s=9c2307d63fe710b09efce1c77fa0a1ed",
+    "year": "2022",
+    "genre": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Boku no Hero Academia Final Season",
+    "cover": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "sabtu, populer"
+  },
+  {
+    "title": "Bukiyou na Senpai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1257/152233l.jpg",
     "year": 2025,
     "genre": [
       "Comedy",
       "Romance"
     ],
-    "episode": "5 Eps",
+    "episode": "4 Eps",
     "format": "TV",
-      "update": "rabu"
+    "update": "jumat"
   },
   {
-    "title": "Monster Strike Deadverse Reloaded",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1090/151875.webp?s=1ad44536246bd10df373ecba7cb420d7",
+    "title": "Chanto Suenai Kyuuketsuki-chan",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1185/151888.webp?s=dcf1c9d26f749b96d00156ed768369c4",
     "year": 2025,
     "genre": [
-      "Fantasy",
-      "Action"
+      "Supernatural",
+      "Comedy"
     ],
-    "episode": "2 Eps",
+    "episode": "3 Eps",
     "format": "TV",
-      "update": "rabu"
+    "update": "senin"
   },
   {
-    "title": "Ninja to Gokudou",
-    "cover": "https://cdn.myanimelist.net/images/anime/1296/152147l.jpg",
+    "title": "Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1637/148702.webp?s=6b57bb66ec1db383bfbe31ea9eb5819d",
     "year": 2025,
     "genre": [
-      "Action"
+      "Fantasy"
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "rabu"
+    "update": "senin"
   },
   {
     "title": "Chitose-kun wa Ramune Bin no Naka",
@@ -238,17 +140,277 @@
     "update": "rabu"
   },
   {
-    "title": "Tondemo Skill de Isekai Hourou Meshi 2",
-    "cover": "https://cdn.myanimelist.net/images/anime/1206/151772l.jpg",
+    "title": "DanDaDan",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1071/145541.webp",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "episode": "12 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "DanDaDan S2",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1721/149001.webp",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "episode": "12 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Debu to Love to Ayamachi to",
+    "cover": "https://cdn.myanimelist.net/images/anime/1669/151736l.jpg",
     "year": 2025,
     "genre": [
       "Comedy",
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+    "year": 2020,
+    "genre": [
+      "Drama",
       "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Digimon Beatbreak",
+    "cover": "https://cdn.myanimelist.net/images/anime/1776/151242l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
       "Fantasy"
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "rabu"
+    "update": "minggu"
+  },
+  {
+    "title": "Egao no Taenai Shokuba desu",
+    "cover": "https://cdn.myanimelist.net/images/anime/1617/151874l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Fumetsu no Anata e Season 3",
+    "cover": "https://cdn.myanimelist.net/images/anime/1140/152364l.jpg",
+    "year": 2025,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "minggu, populer"
+  },
+  {
+    "title": "Futari Solo Camp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1904/150649l.jpg",
+    "year": 2025,
+    "genre": [
+      "Slice Of Life",
+      "Gourmet"
+    ],
+    "episode": "16 Eps",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Gachiakuta",
+    "cover": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "episode": "16 Eps",
+    "format": "TV",
+    "update": "senin, populer"
+  },
+  {
+    "title": "Gnosia",
+    "cover": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg",
+    "year": 2025,
+    "genre": [
+      "Sci-Fi"
+    ],
+    "episode": "3 Eps",
+    "format": "TV",
+    "update": "minggu"
+  },
+  {
+    "title": "Heika Watashi wo Wasurete Kudasai",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1889/151926.webp?s=879f405832b2c85efd412681e9a61aef",
+    "year": 2025,
+    "genre": [
+      "Fantasy",
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Heika Watashi wo Wasurete Kudasai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1889/151926l.jpg",
+    "year": 2025,
+    "genre": [
+      "Fantasy",
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "howl no ugoku shiro",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1470/138723.webp?s=9e47dd68f58bdecaf6998fc01a27cba4",
+    "year": 2004,
+    "genre": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "episode": "1 Eps",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Isekai Quartet 3",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1999/150568.webp?s=7b25d3bf201489d5e982d25b83696578",
+    "year": 2025,
+    "genre": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Kaiju No 8 Season 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "episode": "11 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Kakuriyo no Yadomeshi Ni",
+    "cover": "https://cdn.myanimelist.net/images/anime/1619/151364l.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "episode": "5 Eps",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Kanojo Okarishimasu Season 4",
+    "cover": "https://cdn.myanimelist.net/images/anime/1071/150808l.jpg",
+    "year": 2025,
+    "genre": [
+      "Romance"
+    ],
+    "episode": "12 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+    "cover": "https://cdn.myanimelist.net/images/anime/1363/151886l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Kaoru Hana wa Rin to Saku",
+    "cover": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg",
+    "year": 2025,
+    "genre": [
+      "Romance"
+    ],
+    "episode": "13 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Kekkon Yubiwa Monogatari II",
+    "cover": "https://cdn.myanimelist.net/images/anime/1478/151722l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Romance",
+      "Ecchi"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Kikaijikake no Marie",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1618/151138.webp?s=367ce655fe71082d5273db9d332577e9",
+    "year": 2025,
+    "genre": [
+      "Romance",
+      "Comedy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "kimi No na Wa",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
+    "year": 2016,
+    "genre": [
+      "Romance",
+      "Fantasy"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "Kimi to Koete Koi ni Naru",
@@ -263,17 +425,89 @@
     "update": "rabu"
   },
   {
-    "title": "Kakuriyo no Yadomeshi Ni",
-    "cover": "https://cdn.myanimelist.net/images/anime/1619/151364l.jpg",
-    "year": 2025,
+    "title": "Kimi wo Aishita Hitori no Boku e",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1706/123761.webp?s=75dec7f67f780dd5512cc8f5fe3896b7",
+    "year": "2022",
+    "genre": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Koe no Katachi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
+    "year": 2016,
     "genre": [
       "Drama",
-      "Fantasy",
+      "Romance"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Lets Play Quest-darake no My Life",
+    "cover": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
       "Romance"
     ],
     "episode": "5 Eps",
     "format": "TV",
     "update": "kamis"
+  },
+  {
+    "title": "Look Back",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1584/141396.webp?s=342e2221ec37f7974e20a21682a1737d",
+    "year": 2024,
+    "genre": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi Tsuihou sarete Saikyou wo Mezashimasu",
+    "cover": "https://cdn.myanimelist.net/images/anime/1362/151636l.jpg",
+    "year": 2025,
+    "genre": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Mofa Gongzhu de Xiao Fannao",
+    "cover": "https://cdn.myanimelist.net/images/anime/1537/152271l.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Fantasy"
+    ],
+    "episode": "3 Eps",
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Monster Strike Deadverse Reloaded",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1090/151875.webp?s=1ad44536246bd10df373ecba7cb420d7",
+    "year": 2025,
+    "genre": [
+      "Fantasy",
+      "Action"
+    ],
+    "episode": "2 Eps",
+    "format": "TV",
+    "update": "rabu"
   },
   {
     "title": "Mushoku no Eiyuu Betsu ni Skill Nanka Iranakatta n da ga",
@@ -290,121 +524,40 @@
     "update": "kamis"
   },
   {
-    "title": "Wandance",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1104/151524.webp?s=9ffc84dff5b6a32b86bcea97151e6de9",
-    "year": 2025,
-    "genre": [
-      "Sports"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "kamis"
-  },
-  {
-    "title": "Taiyou yori mo Mabushii Hoshi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
-    "year": 2025,
-    "genre": [
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "kamis"
-  },
-  {
-    "title": "Tensei Akujo no Kuro Rekishi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "kamis"
-  },
-  {
-    "title": "Lets Play Quest-darake no My Life",
-    "cover": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance"
-    ],
-    "episode": "5 Eps",
-    "format": "TV",
-    "update": "kamis"
-  },
-  {
-    "title": "Akujiki Reijou to Kyouketsu Koushaku",
-    "cover": "https://cdn.myanimelist.net/images/anime/1264/152012l.jpg",
+    "title": "Nageki no Bourei wa Intai shitai Part 2",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1651/152063.webp?s=a4066fa9b5027e2c4f2e473679a84d25",
     "year": 2025,
     "genre": [
       "Fantasy",
-      "Romance"
+      "Action",
+      "Adventure"
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "jumat"
+    "update": "selasa"
   },
   {
-    "title": "Bukiyou na Senpai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1257/152233l.jpg",
+    "title": "Ninja to Gokudou",
+    "cover": "https://cdn.myanimelist.net/images/anime/1296/152147l.jpg",
     "year": 2025,
     "genre": [
-      "Comedy",
-      "Romance"
+      "Action"
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "jumat"
+    "update": "rabu"
   },
   {
-    "title": "Watashi wo Tabetai Hitodenashi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1191/152368l.jpg",
+    "title": "One Punch Man 3",
+    "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
     "year": 2025,
     "genre": [
-      "Drama",
-      "Supernatural"
+      "Action",
+      "Comedy"
     ],
-    "episode": "4 Eps",
+    "episode": "3 Eps",
     "format": "TV",
-    "update": "jumat"
-  },
-  {
-    "title": "Towa no Yuugure",
-    "cover": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
-    "year": 2025,
-    "genre": [
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "jumat"
-  },
-  {
-    "title": "Futari Solo Camp",
-    "cover": "https://cdn.myanimelist.net/images/anime/1904/150649l.jpg",
-    "year": 2025,
-    "genre": [
-      "Slice Of Life",
-      "Gourmet"
-    ],
-    "episode": "16 Eps",
-    "format": "TV",
-    "update": "jumat"
-  },
-  {
-    "title": "Heika Watashi wo Wasurete Kudasai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1889/151926l.jpg",
-    "year": 2025,
-    "genre": [
-      "Fantasy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "jumat"
+    "update": "senin"
   },
   {
     "title": "Potion Wagami wo Tasukeru",
@@ -418,38 +571,54 @@
     "update": "jumat"
   },
   {
-    "title": "Boku no Hero Academia Final Season",
-    "cover": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+    "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+    "cover": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg",
     "year": 2025,
     "genre": [
+      "Comedy",
+      "Romance",
+      "Fantasy",
       "Action"
     ],
-    "episode": "4 Eps",
+    "episode": "5 Eps",
     "format": "TV",
-    "update": "sabtu, populer"
+    "update": "sabtu"
   },
   {
-    "title": "Kanojo Okarishimasu Season 4",
-    "cover": "https://cdn.myanimelist.net/images/anime/1071/150808l.jpg",
-    "year": 2025,
-    "genre": [
-      "Romance"
-    ],
-    "episode": "12 Eps",
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Kaiju No 8 Season 2",
-    "cover": "https://cdn.myanimelist.net/images/anime/1177/150344l.jpg",
+    "title": "Sakamoto Days",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1026/146459.webp",
     "year": 2025,
     "genre": [
       "Action",
-      "Fantasy"
+      "Comedy"
     ],
     "episode": "11 Eps",
     "format": "TV",
     "update": ""
+  },
+  {
+    "title": "Sanda",
+    "cover": "https://cdn.myanimelist.net/images/anime/1364/151767l.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Mystery"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Sawaranaide Kotesashi-kun",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1025/150482.webp?s=2df159acdfe421fa85d03bd6f48d273b",
+    "year": 2025,
+    "genre": [
+      "Sport",
+      "Ecchi"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
   },
   {
     "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
@@ -475,17 +644,40 @@
     "update": "sabtu"
   },
   {
-    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi Tsuihou sarete Saikyou wo Mezashimasu",
-    "cover": "https://cdn.myanimelist.net/images/anime/1362/151636l.jpg",
+    "title": "Solo Leveling Season 2 Arise from the Shadow",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1448/147351.webp",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "episode": "13 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1024/150787l.jpg",
+    "year": 2025,
+    "genre": [
+      "Romance"
+    ],
+    "episode": "9 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Sozai Saishuka no Isekai Ryokouki",
+    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
     "year": 2025,
     "genre": [
       "Adventure",
-      "Action",
       "Fantasy"
     ],
-    "episode": "4 Eps",
+    "episode": "5 Eps",
     "format": "TV",
-    "update": "sabtu"
+    "update": "selasa"
   },
   {
     "title": "SpyxFamily Season 3",
@@ -500,271 +692,12 @@
     "update": "sabtu, populer"
   },
   {
-    "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-    "cover": "https://cdn.myanimelist.net/images/anime/1363/151886l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Kekkon Yubiwa Monogatari II",
-    "cover": "https://cdn.myanimelist.net/images/anime/1478/151722l.jpg",
-      "year": 2025,
-      "genre": [
-      "Action",
-      "Fantasy",
-      "Romance",
-      "Ecchi"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Watari-kun no xx ga Houkai Sunzen",
-    "cover": "https://cdn.myanimelist.net/images/anime/1502/150545l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance",
-      "Drama"
-    ],
-    "episode": "17 Eps",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
-    "cover": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance",
-      "Fantasy",
-      "Action"
-    ],
-    "episode": "5 Eps",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Sanda",
-    "cover": "https://cdn.myanimelist.net/images/anime/1364/151767l.jpg",
-    "year": 2025,
-    "genre": [
-      "Action",
-      "Mystery"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "sabtu"
-  },
-  {
-    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
-    "cover": "https://cdn.myanimelist.net/images/anime/1024/150787l.jpg",
-    "year": 2025,
-    "genre": [
-      "Romance"
-    ],
-    "episode": "9 Eps",
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Kaoru Hana wa Rin to Saku",
-    "cover": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg",
-    "year": 2025,
-    "genre": [
-      "Romance"
-    ],
-    "episode": "13 Eps",
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Uma Musume Cinderella Gray Part 2",
-    "cover": "https://cdn.myanimelist.net/images/anime/1120/152280l.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Sports"
-    ],
-    "episode": "3 Eps",
-    "format": "TV",
-    "update": "minggu, populer"
-  },
-  {
-    "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1699/151694l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Romance"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1455/152139l.jpg",
-    "year": 2025,
-    "genre": [
-      "Comedy",
-      "Action"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "Fumetsu no Anata e Season 3",
-    "cover": "https://cdn.myanimelist.net/images/anime/1140/152364l.jpg",
-    "year": 2025,
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Supernatural"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "minggu, populer"
-  },
-  {
-    "title": "Gnosia",
-    "cover": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg",
-    "year": 2025,
-    "genre": [
-      "Sci-Fi"
-    ],
-    "episode": "3 Eps",
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "Digimon Beatbreak",
-    "cover": "https://cdn.myanimelist.net/images/anime/1776/151242l.jpg",
-    "year": 2025,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "Ao no Orchestra Season 2",
-    "cover": "https://cdn.myanimelist.net/images/anime/1078/151796l.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama"
-    ],
-    "episode": "4 Eps",
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "kimi No na Wa",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
-    "year": 2016,
-    "genre": [
-      "Romance", "Fantasy"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
     "title": "Suki demo kirai na amanojaku",
     "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1698/142716.webp?s=84bcc8baed7b603d4c848502527f50ac",
     "year": 2024,
     "genre": [
-      "Drama", "Romance"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-    "year": 2020,
-    "genre": [
-      "Drama", "Adventure", "Action", "Fantasy"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Look Back",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1584/141396.webp?s=342e2221ec37f7974e20a21682a1737d",
-    "year": 2024,
-    "genre": [
-      "Drama", "Slice of Life"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Boku ga Aishita Subete no Kimi e",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1149/123760.webp?s=9c2307d63fe710b09efce1c77fa0a1ed",
-    "year": "2022",
-    "genre": [
-      "Romance", "Sci-Fi"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Kimi wo Aishita Hitori no Boku e",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1706/123761.webp?s=75dec7f67f780dd5512cc8f5fe3896b7",
-    "year": "2022",
-    "genre": [
-      "Romance", "Sci-Fi"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Koe no Katachi",
-    "cover": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-    "year": 2016,
-    "genre": [
-      "Drama", "Romance"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Tenki no ko",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1880/101146.webp?s=392a4005f298ad95e5b7715879cae423",
-    "year": 2019,
-    "genre": [
-      "Fantasy", "Romance"
-    ],
-    "episode": "eps1",
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Ame wo Tsugeru Hyouryuu Danchi",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1263/124155.webp?s=daeeea216314df510a7a24b1d9951e46",
-    "year": 2022,
-    "genre": [
-      "Fantasy"
+      "Drama",
+      "Romance"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -782,67 +715,158 @@
     "update": "Movie"
   },
   {
-    "title": "Solo Leveling Season 2 Arise from the Shadow",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1448/147351.webp",
+    "title": "Taiyou yori mo Mabushii Hoshi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
     "year": 2025,
     "genre": [
-      "Action", "Adventure", "Fantasy"
+      "Romance"
     ],
-    "episode": "13 Eps",
+    "episode": "4 Eps",
     "format": "TV",
-    "update": ""
+    "update": "kamis"
   },
   {
-    "title": "Sakamoto Days",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1026/146459.webp",
+    "title": "Tenki no ko",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1880/101146.webp?s=392a4005f298ad95e5b7715879cae423",
+    "year": 2019,
+    "genre": [
+      "Fantasy",
+      "Romance"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Tensei Akujo no Kuro Rekishi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
     "year": 2025,
     "genre": [
-      "Action", "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "episode": "11 Eps",
+    "episode": "4 Eps",
     "format": "TV",
-    "update": ""
+    "update": "kamis"
   },
   {
-    "title": "DanDaDan S2",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1721/149001.webp",
-    "year": 2025,
-    "genre": [
-      "Action", "Comedy", "Supernatural"
-    ],
-    "episode": "12 Eps",
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "DanDaDan",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1071/145541.webp",
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1368/140405.webp",
     "year": 2024,
     "genre": [
-      "Action", "Comedy", "Supernatural"
+      "Comedy",
+      "Romance"
     ],
-    "episode": "12 Eps",
+    "episode": "24 Eps",
     "format": "TV",
     "update": ""
   },
   {
-    "title": "Sozai Saishuka no Isekai Ryokouki",
-    "cover": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
+    "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1699/151694l.jpg",
     "year": 2025,
     "genre": [
-      "Adventure", "Fantasy"
+      "Comedy",
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "minggu"
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1206/151772l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "rabu"
+  },
+  {
+    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1455/152139l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
+      "Action"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "minggu"
+  },
+  {
+    "title": "Towa no Yuugure",
+    "cover": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
+    "year": 2025,
+    "genre": [
+      "Romance"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Uma Musume Cinderella Gray Part 2",
+    "cover": "https://cdn.myanimelist.net/images/anime/1120/152280l.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
+    "episode": "3 Eps",
+    "format": "TV",
+    "update": "minggu, populer"
+  },
+  {
+    "title": "Wandance",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1104/151524.webp?s=9ffc84dff5b6a32b86bcea97151e6de9",
+    "year": 2025,
+    "genre": [
+      "Sports"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "kamis"
+  },
+  {
+    "title": "Watari-kun no xx ga Houkai Sunzen",
+    "cover": "https://cdn.myanimelist.net/images/anime/1502/150545l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "episode": "17 Eps",
+    "format": "TV",
+    "update": "sabtu"
+  },
+  {
+    "title": "Watashi wo Tabetai Hitodenashi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1191/152368l.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Supernatural"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "jumat"
+  },
+  {
+    "title": "Yano-kun no Futsuu no Hibi",
+    "cover": "https://cdn.myanimelist.net/images/anime/1388/152332l.jpg",
+    "year": 2025,
+    "genre": [
+      "Comedy",
+      "Romance"
     ],
     "episode": "5 Eps",
     "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "howl no ugoku shiro",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1470/138723.webp?s=9e47dd68f58bdecaf6998fc01a27cba4",
-    "year": 2004,
-    "genre": ["Adventure", "Award Winning", "Drama", "Fantasy", "Romance"],
-    "episode": "1 Eps",
-    "format": "Movie",
-    "update": "Movie"
+    "update": "rabu"
   }
 ]
