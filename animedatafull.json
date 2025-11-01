@@ -24,6 +24,18 @@
     "update": "senin, populer"
   },
   {
+    "title": "Chanto Suenai Kyuuketsuki-chan",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1185/151888.webp?s=dcf1c9d26f749b96d00156ed768369c4",
+    "year": 2025,
+    "genre": [
+      "Supernatural",
+      "Comedy"
+    ],
+    "episode": "3 Eps",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
     "title": "Tensei Shitara Slime Datta Ken 3rd Season",
     "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1368/140405.webp",
     "year": 2024,
@@ -68,7 +80,42 @@
     ],
     "episode": "4 Eps",
     "format": "TV",
-    "update": "selasa"
+    "update": "senin"
+  },
+  {
+    "title": "Sawaranaide Kotesashi-kun",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1025/150482.webp?s=2df159acdfe421fa85d03bd6f48d273b",
+    "year": 2025,
+    "genre": [
+      "Sport",
+      "Ecchi"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1637/148702.webp?s=6b57bb66ec1db383bfbe31ea9eb5819d",
+    "year": 2025,
+    "genre": [
+      "Fantasy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Kikaijikake no Marie",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1618/151138.webp?s=367ce655fe71082d5273db9d332577e9",
+    "year": 2025,
+    "genre": [
+      "Romance",
+      "Comedy"
+    ],
+    "episode": "4 Eps",
+    "format": "TV",
+    "update": "senin"
   },
   {
     "title": "Mofa Gongzhu de Xiao Fannao",
