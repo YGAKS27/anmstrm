@@ -2,7 +2,7 @@
   "title": "Kimi to Koete Koi ni Naru",
   "altTitle": "With You, Our Love Will Make It Through",
   "cover": "https://cdn.myanimelist.net/images/anime/1334/151773.jpg",
-  "genre": ["Fantasy", "Romance", "School"],
+  "genre": ["Fantasy", "Romance"],
   "description": "Di sebuah dunia dimana manusia dan beast-folk hidup berdampingan namun masih dengan prasangka sosial, siswi SMA Manri Asaka bertemu dengan siswa transfer Hidaka Tsunagu, seorang beast-folk. Awalnya canggung, Manri perlahan tertarik pada kebaikan dan keteguhan Tsunagu—tapi bisakah cinta mereka melampaui dinding perbedaan?",
   "video": "vidio.html#kimi-to-koete-koi-ni-naru",
   "production": "Millepensee",
@@ -11,7 +11,15 @@
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://frieren.my.id/kdrive/tmBso5F2i6cTT/Kuramanime-KIMIKOE-01-720p-CR.mp4?lud=1760455657&pid=38569&sid=201424&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://ruka.my.id/kdrive/X80vRHZdUQbxBpP/Kuramanime-KIMIKOE-02-720p-CR.mp4?lud=1761060576&pid=38951&sid=203051&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://lloyd.my.id/kdrive/WzLM7JoW4eU6W/Kuramanime-KIMIKOE-03-720p-CR.mp4?lud=1761665358&pid=39239&sid=204619&cce=1"
     }
   ]
 }
