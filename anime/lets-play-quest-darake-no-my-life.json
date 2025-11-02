@@ -4,14 +4,30 @@
   "cover": "https://cdn.myanimelist.net/images/anime/1148/150376l.jpg",
   "genre": ["Romance", "Comedy", "Gaming"],
   "description": "Diadaptasi dari webtoon populer karya Mongie (Leeanne M. Krecic), anime ini mengikuti kisah Sam Young, seorang developer game wanita yang harus menavigasi dunia profesional dan asmara secara bersamaan — sambil menghadapi kecanggungan sosial, meme, dan ‘quest’ di kehidupan nyata serta online. 2",
-  "video": "vidio.html#let's-play:-quest-darake-no-my-life",
+  "video": "vidio.html#lets-play-quest-darake-no-my-life",
   "production": "OLM",
   "release": "2 Oktober 2025",
-  "rating": "",
+  "rating": "6.2",
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://kanade.my.id/kdrive/LZuLE6vPvYytDWp/Kuramanime-LETSPLAY-01-720p.mp4?lud=1759338236&pid=37605&sid=196553&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://kanade.my.id/kdrive/8eSTR2jGjDho/Kuramanime-LETSPLAY-02-720p.mp4?lud=1759943903&pid=38220&sid=199298&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://sinon.my.id/kdrive/uDR37W8DwbmEo6W/Kuramanime-LETSPLAY-03-720p.mp4?lud=1760546752&pid=38680&sid=201839&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://tinasha.my.id/kdrive/fXUwCmyXPqp/Kuramanime-LETSPLAY-04-720p.mp4?lud=1761151671&pid=38983&sid=203331&cce=1"
+    },
+    {
+      "number": 5,
+      "url": "https://maki.my.id/kdrive/Bwlw1FaqfZc/Kuramanime-LETSPLAY-05-720p.mp4?lud=1761756863&pid=39321&sid=205004&cce=1"
     }
   ]
 }
