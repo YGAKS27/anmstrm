@@ -5,13 +5,25 @@
   "genre": ["Sci-Fi", "Mystery", "Psychological"],
   "description": "Dalam pesawat luar angkasa yang terjebak dalam loop waktu, kru harus menentukan siapa di antara mereka yang merupakan Gnosia — makhluk misterius yang menyamar sebagai manusia dan berusaha memusnahkan seluruh awak. 1",
   "video": "vidio.html#gnosia",
-  "production": "Science SARU",
+  "production": "domerica",
   "release": "12 Oktober 2025",
-  "rating": "",
+  "rating": "7.3",
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://shoko.my.id/kdrive/Vnjt6x91xbqmh/Kuramanime-GNOSIA-01-720p-IQ.mp4?lud=1760203243&pid=38426&sid=200409&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://mutsumi.my.id/kdrive/Sa7AwdF6Hu3Q/Kuramanime-GNOSIA-02-720p-IQ.mp4?lud=1760807524&pid=38853&sid=202836&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://shoko.my.id/kdrive/UEovP3oi7aCyD/Kuramanime-GNOSIA-03-720p-IQ.mp4?lud=1761410876&pid=39129&sid=204004&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://tinasha.my.id/kdrive/VkNjw6evttF/Kuramanime-GNOSIA-04-720p-IQ.mp4?lud=1762015694&pid=39414&sid=205579&cce=1"
     }
   ]
 }
