@@ -2,16 +2,32 @@
   "title": "Sanda",
   "altTitle": "SANDA",
   "cover": "https://cdn.myanimelist.net/images/anime/1364/151767l.jpg",
-  "genre": ["Action", "Mystery", "Supernatural"],
+  "genre": ["Action", "Mystery"],
   "description": "Di dunia di mana Santa Claus dianggap legenda, seorang siswa bernama Sanda menemukan rahasia mengejutkan tentang dirinya sendiri yang berkaitan dengan asal-usul Natal dan kekuatan misterius yang diwariskan kepadanya. 1",
   "video": "vidio.html#sanda",
-  "production": "Madhouse",
-  "release": "18 Oktober 2025",
-  "rating": "",
+  "production": "Science SARU",
+  "release": "4 Oktober 2025",
+  "rating": "7.4",
   "episodes": [
     {
       "number": 1,
-      "url": "https://renako.my.id/kdrive/rz6QvM0e5DjQyk/Kuramanime-SIVIS-04-720p-BGlobal.mp4"
+      "url": "https://juliet.my.id/kdrive/kGG9ZVTE2KN/Kuramanime-SANDA-01-720p-AMZN.mp4?lud=1759515569&pid=37703&sid=197098&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://kanae.my.id/kdrive/wCNQ1BqhAXX/Kuramanime-SANDA-02-720p-AMZN.mp4?lud=1760120116&pid=38365&sid=200094&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://chizuru.my.id/kdrive/yxMqsWs8p6WH5FE/Kuramanime-SANDA-03-720p-AMZN.mp4?lud=1760724945&pid=38780&sid=202421&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://tsukasa.my.id/kdrive/6gZ4TQYbS8Cd/Kuramanime-SANDA-04-720p-AMZN.mp4?lud=1761631899&pid=39097&sid=203719&cce=1"
+    },
+    {
+      "number": 5,
+      "url": "https://lloyd.my.id/kdrive/v9Fakk0eFs7Oik/Kuramanime-SANDA-05-720p-AMZN.mp4?lud=1761934722&pid=39395&sid=205359&cce=1"
     }
   ]
 }
