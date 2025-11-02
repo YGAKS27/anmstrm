@@ -5,9 +5,9 @@
   "genre": ["Drama", "Sports"],
   "description": "Melanjutkan perjalanan Tokai Teio dan Oguri Cap di dunia balap kuda, kisah ini berfokus pada Silver Fox dan perjuangan para Uma Musume muda dalam mencapai kejayaan di lintasan balap. 1",
   "video": "vidio.html#uma-musume-cinderella-gray-part-2",
-  "production": "Studio Kai",
+  "production": "CygamesPictures",
   "release": "5 Januari 2025",
-  "rating": "",
+  "rating": "8.4",
   "episodes": [
     {
       "number": 1,
@@ -20,6 +20,10 @@
     {
       "number": 3,
       "url": "https://riselia.my.id/kdrive/Yx88BVM31pK/Kuramanime-UMAMSM_ALT_P2-03-720p-NF.mp4?lud=1760862741&pid=38864&sid=202891&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://ririsa.my.id/kdrive/hBiW5jpIvAGpi/Kuramanime-UMAMSM_ALT_P2-04-720p-NF.mp4?lud=1762072485&pid=39438&sid=205646&cce=1"
     }
   ]
 }
