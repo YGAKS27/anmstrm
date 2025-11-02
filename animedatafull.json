@@ -217,6 +217,18 @@
     "update": "senin"
   },
   {
+    "title": "Eiga Daisuki Pompo-san",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1654/106235.webp",
+    "year": 2021,
+    "genre": [
+      "Drama",
+      "Comedy"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
     "title": "Fumetsu no Anata e",
     "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1880/118484.webp",
     "year": 2021,
@@ -658,6 +670,18 @@
     "update": ""
   },
   {
+    "title": "Summer Ghost",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1651/117943.webp",
+    "year": 2021,
+    "genre": [
+      "Drama",
+      "Supernatural"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
     "title": "Sanda",
     "cover": "https://cdn.myanimelist.net/images/anime/1364/151767l.jpg",
     "year": 2025,
@@ -799,6 +823,18 @@
     "update": "Movie"
   },
   {
+    "title": "Tonari no Totoro",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/3/9529.webp",
+    "year": 1988,
+    "genre": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
     "title": "Tensei Akujo no Kuro Rekishi",
     "cover": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
     "year": 2025,
@@ -881,6 +917,17 @@
     "episode": "4 Eps",
     "format": "TV",
     "update": "minggu, populer"
+  },
+  {
+    "title": "Violet Evergarden Movie",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1614/106512.webp",
+    "year": 2020,
+    "genre": [
+      "Drama"
+    ],
+    "episode": "eps1",
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "Wandance",
