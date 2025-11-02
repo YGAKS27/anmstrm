@@ -5,13 +5,29 @@
   "genre": ["Action", "Comedy", "Parody"],
   "description": "Toujima Tanzaburou, pria paruh baya biasa, bermimpi menjadi pahlawan seperti Kamen Rider. Ketika sebuah insiden memberinya kekuatan misterius, ia pun memutuskan untuk mewujudkan impiannya menjadi nyata, meski dengan cara yang sangat kocak. 1",
   "video": "vidio.html#toujima-tanzaburou-wa-kamen-rider-ni-naritai",
-  "production": "OLM",
-  "release": "19 Januari 2025",
-  "rating": "",
+  "production": "LIDENFILMS",
+  "release": "5 Oktober 2025",
+  "rating": "7.7",
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://kitasan.my.id/kdrive/XibVymQge6NfJB/Kuramanime-TJKAMEN-01-720p-BGlobal.mp4?lud=1759598154&pid=37862&sid=197798&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://mikasa.my.id/kdrive/UMYaB8icNKr71q/Kuramanime-TJKAMEN-02-720p-BGlobal.mp4?lud=1760203196&pid=38425&sid=200404&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://nobara.my.id/kdrive/EESehKpNEZfg/Kuramanime-TJKAMEN-03-720p-BGlobal.mp4?lud=1760807730&pid=38854&sid=202841&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://ruka.my.id/kdrive/4mSkSwG6WieHgxY/Kuramanime-TJKAMEN-04-720p-BGlobal.mp4?lud=1761631615&pid=39130&sid=204009&cce=1"
+    },
+    {
+      "number": 5,
+      "url": "https://megumin.my.id/kdrive/6POQ6nZalJtP/Kuramanime-TJKAMEN-05-720p-BGlobal.mp4?lud=1762017551&pid=39416&sid=205589&cce=1"
     }
   ]
 }
