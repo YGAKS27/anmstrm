@@ -2,16 +2,32 @@
   "title": "Potion, Wagami wo Tasukeru",
   "altTitle": "I Shall Survive Using Potions!",
   "cover": "https://cdn.myanimelist.net/images/anime/1311/151227l.jpg",
-  "genre": ["Fantasy", "Adventure", "Comedy"],
+  "genre": ["Fantasy"],
   "description": "Kaoru Nagase bereinkarnasi ke dunia lain setelah kematiannya yang tragis. Dengan kemampuan untuk membuat ramuan ajaib tanpa batas, ia menjalani kehidupan baru yang bebas, membantu orang-orang yang membutuhkan sambil menghindari perhatian berlebih dari bangsawan dan dewa. 1",
   "video": "vidio.html#potion-wagami-wo-tasukeru",
-  "production": "Jumondo",
-  "release": "4 Oktober 2025",
-  "rating": "",
+  "production": "Imagica Infos, Imageworks Studio",
+  "release": "3 Oktober 2025",
+  "rating": "5.2",
   "episodes": [
     {
       "number": 1,
-      "url": ""
+      "url": "https://lloyd.my.id/kdrive/4wcBsGxdipf/Kuramanime-POTSAVE-01-720p-AOA.mp4?lud=1759427809&pid=37663&sid=196883&cce=1"
+    },
+    {
+      "number": 2,
+      "url": "https://lloyd.my.id/kdrive/vx19vyMWATCA6S/Kuramanime-POTSAVE-02-720p-AOA.mp4?lud=1760032493&pid=38284&sid=199689&cce=1"
+    },
+    {
+      "number": 3,
+      "url": "https://orihime.my.id/kdrive/nVRrRuptycT9quE/Kuramanime-POTSAVE-03-720p-AOA.mp4?lud=1760637024&pid=38726&sid=202126&cce=1"
+    },
+    {
+      "number": 4,
+      "url": "https://kobeni.my.id/kdrive/GDJfKQihmICwMd/Kuramanime-POTSAVE-04-720p-AOA.mp4?lud=1761241869&pid=39013&sid=203493&cce=1"
+    },
+    {
+      "number": 5,
+      "url": "https://mikasa.my.id/kdrive/iivB9TPbl7ppb0/Kuramanime-POTSAVE-05-720p-AOA.mp4?lud=1761848142&pid=39340&sid=205254&cce=1"
     }
   ]
 }
