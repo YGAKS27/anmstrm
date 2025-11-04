@@ -1,6 +1,11 @@
 {
   "updates": [
     {
+      "title": "Versi 2.1.0",
+      "description": "Lihat detail changelog di <url>https://mineplix.net/update-logs</url>",
+      "date": "4 November 2025"
+    },
+    {
       "title": "Versi 2.0.0",
       "description": "Pembaruan tampilan media player dsn penambah an support history yang sudah fixed, dan fixed beberapa fitur yang bug dan perbaikan kata..",
       "date": "2025-29-18"
